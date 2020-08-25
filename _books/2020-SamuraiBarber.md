@@ -8,4 +8,4 @@ Ninjas are wreaking havoc by cutting people’s hair without their permission. B
 
 The Samurai Barber must step up and cut down the evil strands on the Ninja Hairstylist’s head. It is not just keratin that is at stake. The Samurai Barber must fight for one of the cornerstones of modern civilization; the freedom and self-determination to choose your own hairstyle.
 
-Available from: [Troubador](https://www.troubador.co.uk/bookshop/sci-fi/samurai-barber-versus-ninja-hairstylist/)
+Availability: [Troubador](https://www.troubador.co.uk/bookshop/sci-fi/samurai-barber-versus-ninja-hairstylist/)

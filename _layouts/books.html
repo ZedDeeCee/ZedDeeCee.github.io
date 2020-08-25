@@ -7,9 +7,16 @@ layout: default
 }
 </style>
 <h1>Books</h1>
+<p>Books have words. Tens of thousands of them. Hopefully they have been arranged in a way that makes sense. Here are some books that have words that have been arranged in some kind of arbitrary order, by me.</p>
+<hr style="clear:both;rounded;margin-top:1em;margin-bottom:1em">
 
 {% for book in site.books reversed%}
 <h2 style="clear:both">{{ book.Title }}</h2>
 <img src="{{ book.ImageLink }}" width="30%" height="auto" style="float: left; padding-right: 10px; padding-bottom: 20px">
 {{ book.content | markdownify }}
 {% endfor %}
+
+<hr style="clear:both;rounded;margin-top:1em;margin-bottom:1em">
+
+<p>If you liked one of my books and want to know whenever a new one is coming out, but you don't want to read the rest of my "blog", you should probably subscribe to my <a href="/feed/BookNews.xml">Books News RSS feed</a>.</p>
+<p><a href="https://feeder.co/">Feeder.co</a> has a RSS reader browser extension that I find useful.</p>

@@ -21,6 +21,9 @@ disqus:
     shortname: zeddee-github-io
 google_analytics: UA-175474356-1
 repository: zeddeecee/zeddeecee.github.io
+rss: '"Blog"'
+bookNewsRss: Book News
+email: "zeddee AT outlook.sg"
 
 # Build settings
 markdown: kramdown
@@ -49,3 +52,7 @@ exclude:
 collections:
   books:
     output: true
+
+feed:
+  categories:
+    - BookNews
