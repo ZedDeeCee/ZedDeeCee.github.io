@@ -2,6 +2,10 @@
 Title: Samurai Barber Versus Ninja Hairstylist
 ImageLink: content/images/SamuraiBarberCover.jpg
 ---
+Genre: Sci-fi
+
+Release Date: TBC
+
 <strong>Change is in the hair.</strong>
 
 Ninjas are wreaking havoc by cutting people’s hair without their permission. Behind this folicular terrorism is a master ninja, the Ninja Hairstylist, whose chaotic hairstyle embodies the anarchy that is about to tear the city apart.
