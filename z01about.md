@@ -10,4 +10,4 @@ permalink: /about/
 
 ![Zed's adult pic](/content/images/AuthorPic.jpg "What happened?"){:height="auto" width="25%" style="float:right; padding-left: 10px; padding-bottom: 20px; clear:both"}
 
-<p style="clear:left">Unfortunately, he isn't cute anymore. So he works as a programmer by day and tries to write stuff by night. Oh, and somewhere along the way he got diagnosed with autism.</p>
+<p style="clear:left">Unfortunately, he isn't cute anymore. To make up for that, he got a BA in Sonic Art but found out he wasn't really that good at it. So, he decided to work in the games industry, starting off as a game tester, then becoming a programmer, and writes on the side. Oh, and somewhere along the way he got diagnosed with autism.</p>
