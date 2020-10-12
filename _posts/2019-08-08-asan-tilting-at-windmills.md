@@ -6,11 +6,11 @@ author: Zed Dee
 comments: true
 ---
 
-ASAN recently released a [statement](https://autisticadvocacy.org/2019/08/asan-has-ended-partnership-with-sesame-street/), ending its partnership with Sesame Street. Why? According to their statement:
+ASAN recently released a [statement](https://autisticadvocacy.org/2019/08/asan-has-ended-partnership-with-sesame-street/){:target="_blank"}, ending its partnership with Sesame Street. Why? According to their statement:
 
 >Its latest PSAs featuring Julia promote Autism Speaks’ “Screen for Autism” initiative and their resource for parents of newly-diagnosed autistic children, the 100 Day Kit. Like much of Autism Speaks’ recent advertising, these PSAs use the language of acceptance and understanding to push resources that further stigma and treat autistic people as burdens on our families. The 100 Day Kit encourages parents to blame family difficulties on their autistic child (“When you find yourself arguing with your spouse… be careful not to get mad at each other when it really is the autism that has you so upset and angry”) and to view autism as a terrible disease from which their child can “get better.” It recommends compliance-based “therapies” and pseudoscientific “autism diets,” but fails to educate families about communication supports. It even instructs parents to go through the five stages of grief after learning that their child is autistic, as they would if the child had died.
 
-Now, I took a look at that [100 Day Kit](https://www.autismspeaks.org/tool-kit/100-day-kit-young-children?utm_campaign=sesamestreet&amp;utm_content=100daykit&amp;utm_medium=website&amp;utm_source=autismspeaks.org) and the part where it supposedly "encourages parents to blame family difficulties on their autistic child":
+Now, I took a look at that [100 Day Kit](https://www.autismspeaks.org/tool-kit/100-day-kit-young-children?utm_campaign=sesamestreet&amp;utm_content=100daykit&amp;utm_medium=website&amp;utm_source=autismspeaks.org){:target="_blank"} and the part where it supposedly "encourages parents to blame family difficulties on their autistic child":
 
 >Try to direct your anger towards the disorder and not towards your loved ones. When you find yourself arguing with your spouse over an autism related issue, try to remember that this topic is painful for both of you; and be careful not to get mad at each other when it really is the autism that has you so upset and angry. Try to have some semblance of an adult life. Be careful to not let autism consume every waking hour of your life. Spend quality time with your typically developing children and your spouse and refrain from constantly talking about autism. Everyone in your family needs support and to be happy despite the circumstances.
 
@@ -32,4 +32,4 @@ About the five stages of grief, here is some context from the toolkit:
 
 Notice that it says that "you may feel" and **not** "you must feel". Telling parents of feelings that they may feel is a far cry from instructing them to feel things, as stated by ASAN.
 
-As mentioned in my other blog posts, [there is an ASAN tradition to put out a flyer mischaracterising Autism Speak's financials every Autism Awareness Month](/2019/03/30/lets-do-some-proper-math-2019.html). So it is a fact that ASAN do not like Autism Speaks very much. But here they are now with what seems to be a complete failure to understand English.
+As mentioned in my other blog posts, [there is an ASAN tradition to put out a flyer mischaracterising Autism Speak's financials every Autism Awareness Month](/2019/03/30/lets-do-some-proper-math-2019.html){:target="_blank"}. So it is a fact that ASAN do not like Autism Speaks very much. But here they are now with what seems to be a complete failure to understand English.

@@ -51,7 +51,7 @@ However, doing the same thing as before, we get 2,239,239 / 60,617,406 = 3.69%.
 
 As for how Fundraising got to be 24%, only ASAN knows.
 
-Now, let me illustrate how strange it is to used non-scientific grants reported in Schedule I as a measure. Here are figures from [ASAN's 2016 990 form](https://autisticadvocacy.org/wp-content/uploads/2018/05/2016-Form-990.pdf).
+Now, let me illustrate how strange it is to used non-scientific grants reported in Schedule I as a measure. Here are figures from [ASAN's 2016 990 form](https://autisticadvocacy.org/wp-content/uploads/2018/05/2016-Form-990.pdf){:target="_blank"}.
 
 ![](/content/images/ASAN2016Form990-01.png)
 ![](/content/images/ASAN2016Form990-02.png)
@@ -60,7 +60,7 @@ Now, let me illustrate how strange it is to used non-scientific grants reported 
 
 4.02 / 4.06 = 99%. Is ASAN really taking Autism Speaks (AS) to task for only doing 99% of what they do?
 
-Now for [ASAN's 2015 figures](https://autisticadvocacy.org/wp-content/uploads/2016/11/2015-Form-990.pdf).
+Now for [ASAN's 2015 figures](https://autisticadvocacy.org/wp-content/uploads/2016/11/2015-Form-990.pdf){:target="_blank"}.
 
 ![](/content/images/ASAN2015Form990.png)
 

@@ -5,11 +5,11 @@ date: 2019-03-30 22:49
 author: Zed Dee
 comments: true
 ---
-The Autistic Self-Advocacy Network (ASAN) has [published yet another flyer](https://autisticadvocacy.org/wp-content/uploads/2019/03/AutismSpeaksFlyer2019.pdf) with questionable math. For the rebuttal of the other points, see [this post](/2019/01/25/more-strange-facts-to-consider-from-asans-flyer.html).
+The Autistic Self-Advocacy Network (ASAN) has [published yet another flyer](https://autisticadvocacy.org/wp-content/uploads/2019/03/AutismSpeaksFlyer2019.pdf){:target="_blank"} with questionable math. For the rebuttal of the other points, see [this post](/2019/01/25/more-strange-facts-to-consider-from-asans-flyer.html){:target="_blank"}.
 
 ![](/content/images/ASAN2019Flyer.png)
 
-Now, let's take a look at that 1.6% figure. According to [Autism Speaks' 2017 990 form](https://www.autismspeaks.org/sites/default/files/2017-form-990.pdf), they gave away $1,355,073 in grants in the Awareness, Family Services, Advocacy program.
+Now, let's take a look at that 1.6% figure. According to [Autism Speaks' 2017 990 form](https://www.autismspeaks.org/sites/default/files/2017-form-990.pdf){:target="_blank"}, they gave away $1,355,073 in grants in the Awareness, Family Services, Advocacy program.
 
 ![](/content/images/AS2017Form990-01.png)
 
@@ -42,7 +42,7 @@ Take this and divide by the total expenditure.
 
 However, this is clearly wrong. As stated in Part II of Schedule I, **only grants of more than $5,000 are reported in this section**. By taking only figures reported in this section into account, ASAN disregarded $654,178 in grants.
 
-ASAN should know how this part of the form works. Their own [2017 990 form](https://autisticadvocacy.org/wp-content/uploads/2019/01/FY2017-signed-990.pdf) also has a discrepancy between the figure reported in program grants and the figure in Schedule I.
+ASAN should know how this part of the form works. Their own [2017 990 form](https://autisticadvocacy.org/wp-content/uploads/2019/01/FY2017-signed-990.pdf){:target="_blank"} also has a discrepancy between the figure reported in program grants and the figure in Schedule I.
 
 ![](/content/images/ASAN2017Form990-01.png)
 ![](/content/images/ASAN2017Form990-02.png)
