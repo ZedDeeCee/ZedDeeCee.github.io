@@ -1,10 +1,11 @@
 ---
+layout: book
 Title: Samurai Barber Versus Ninja Hairstylist
-ImageLink: content/images/SamuraiBarberCover.jpg
+ImageLink: /content/images/SamuraiBarberCover.jpg
 ---
 Genre: Sci-fi
 
-Release Date: TBC
+Release Date: 28th Nov 2020
 
 <strong>Change is in the hair.</strong>
 

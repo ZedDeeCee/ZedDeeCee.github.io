@@ -1,6 +1,7 @@
 ---
+layout: book
 Title: Fuck This Shit
-ImageLink: content/images/FuckThisShitCover.jpg
+ImageLink: /content/images/FuckThisShitCover.jpg
 ---
 
 Genre: Memoir

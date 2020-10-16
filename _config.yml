@@ -24,7 +24,12 @@ repository: zeddeecee/zeddeecee.github.io
 rss: '"Blog"'
 bookNewsRss: Book News
 email: "zeddee AT outlook.sg"
-
+header_pages:
+  - index.md
+  - books.md
+  - posts.md
+  - about.md
+  
 # Build settings
 markdown: kramdown
 theme: minima
