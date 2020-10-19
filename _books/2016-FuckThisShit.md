@@ -14,4 +14,4 @@ He pays for an hour. The girl is pretty. They have sex. The hour is over. He did
 
 But, as he finds out more about himself and his sexual dysfunction, he learns that the best way forward is actually to not give a fuck about all this shit.
 
-[Universal Book Link](https://books2read.com/u/3RaXgp)
+[Universal Book Link](https://books2read.com/u/3RaXgp){:target="_blank"}
