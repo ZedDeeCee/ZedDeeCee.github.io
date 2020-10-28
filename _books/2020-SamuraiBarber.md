@@ -1,6 +1,6 @@
 ---
 layout: book
-Title: Samurai Barber Versus Ninja Hairstylist
+title: Samurai Barber Versus Ninja Hairstylist
 ImageLink: /content/images/SamuraiBarberCover.jpg
 ---
 Genre: Sci-fi

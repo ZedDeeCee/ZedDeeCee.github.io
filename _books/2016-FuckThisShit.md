@@ -1,6 +1,6 @@
 ---
 layout: book
-Title: Fuck This Shit
+title: Fuck This Shit
 ImageLink: /content/images/FuckThisShitCover.jpg
 ---
 
@@ -8,10 +8,10 @@ Genre: Memoir
 
 Release Date: 3rd Feb 2016
 
-Zed is unhappy. He is fast approaching thirty and he hasn't even had sex yet. He also told his friend that he would kill himself by the time he was thirty. Rather than die a virgin, he decides to pay for sex.
+**Learning not to give a fuck sometimes involves a lot of fucking.**
 
-He pays for an hour. The girl is pretty. They have sex. The hour is over. He didn't come. What the fuck? Shouldn't it be easy for guys to have an orgasm? Isn't that the whole point of sex? What is wrong with him? What the fuck is this shit?
+At twenty-nine, Zed has never been in love, much less a relationship. With a year to go before being a thirty-year-old virgin, he decides to pay for sex. But sex is not as easy as it seems. See, Zed has situational anorgasmia, which means that he can't orgasm during sex.
 
-But, as he finds out more about himself and his sexual dysfunction, he learns that the best way forward is actually to not give a fuck about all this shit.
+Zed tries to figure it out his sexual dysfunction. But he never would have guessed that making lots and lots of love would be crucial in learning of how to love himself.
 
 [Universal Book Link](https://books2read.com/u/3RaXgp){:target="_blank"}
