@@ -1,4 +1,5 @@
 <ul class="social-media-list">
+  <h>Follow me</h>
   {%- if site.dribbble_username -%}<li><a href="https://dribbble.com/{{ site.dribbble_username| cgi_escape | escape }}"target="blank"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#dribbble' | relative_url }}"></use></svg> <span class="username">{{ site.dribbble_username| escape }}</span></a></li>{%- endif -%}
   {%- if site.facebook_username -%}<li><a href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}"target="blank"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use></svg> <span class="username">{{ site.facebook_username| escape }}</span></a></li>{%- endif -%}
   {%- if site.flickr_username -%}<li><a href="https://www.flickr.com/photos/{{ site.flickr_username| cgi_escape | escape }}"target="blank"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#flickr' | relative_url }}"></use></svg> <span class="username">{{ site.flickr_username| escape }}</span></a></li>{%- endif -%}
@@ -11,6 +12,8 @@
   {%- if site.goodreads_username -%}<li><a href="https://www.goodreads.com/author/show/{{ site.goodreads_username| cgi_escape | escape }}"target="blank"><img src="http://d.gr-assets.com/misc/1454549125-1454549125_goodreads_misc.png" width="16px" height="16px" style="padding-right:8px"><span class="username">Goodreads</span></a></li>{%- endif -%}
   {%- if site.youtube_username -%}<li><a href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}"target="blank"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg> <span class="username">{{ site.youtube_username| escape }}</span></a></li>{%- endif -%}
   {%- if site.googleplus_username -%}<li><a href="https://plus.google.com/{{ site.googleplus_username| escape }}"target="blank"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#googleplus' | relative_url }}"></use></svg> <span class="username">{{ site.googleplus_username| escape }}</span></a></li>{%- endif -%}
+  {%- if site.bookBubUrl -%}<li><a href="{{ site.bookBubUrl }}"target="blank"><img src="https://i2.wp.com/insights.bookbub.com/wp-content/uploads/2017/08/bb-icon-red.png" width="16px" height="16px" style="padding-right:8px" alt="Follow me on BookBub"><span class="username">BookBub</span></a></li>{%- endif -%}
   {%- if site.rss -%}<li><a href="{{ 'feed.xml' | relative_url }}"target="blank"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg> <span>{{ site.rss | escape }}</span></a></li>{%- endif -%}
   {%- if site.bookNewsRss -%}<li><a href="{{ '/feed/BookNews.xml' | relative_url }}"target="blank"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg> <span>{{ site.bookNewsRss | escape }}</span></a></li>{%- endif -%}
+
 </ul>
