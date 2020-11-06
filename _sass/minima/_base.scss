@@ -254,3 +254,10 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+
+.image-flex {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: space-around;
+}
