@@ -14,4 +14,6 @@ At twenty-nine, Zed has never been in love, much less a relationship. With a yea
 
 Zed tries to figure it out his sexual dysfunction. But he never would have guessed that making lots and lots of love would be crucial in learning of how to love himself.
 
+<div style="clear: left"></div>
+
 [Universal Book Link](https://books2read.com/u/3RaXgp){:target="_blank"}
