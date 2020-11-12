@@ -39,10 +39,8 @@ As for bioengineering, we are probably very far away from the mastery of genetic
 
 Now, you might think that the idea that a haircut can change the person to be pretty ridiculous. But if you see episodes of Queer Eye on Netflix, the people always say they feel like a different person after getting their hair done. So, all I'm doing is exaggerating that. There's also this thing called [Transcranial magnetic stimulation](https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation){:target="_blank"}, which is basically what it says, stimulating the brain using magnetic fields from outside the cranium. There seems to be some results for using it to treat [depression](https://www.sciencedirect.com/science/article/abs/pii/S1935861X18303206){:target="_blank"}, [obsessive-compulsive disorder](https://serenitymentalhealthcenters.com/wp-content/uploads/2018/11/Trevizol-et-al.-TMS-for-OCD-review-and-meta-analysis.pdf){:target="_blank"}, [generalised anxiety disorder and PTSD](https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.1284){:target="_blank"}. So I wouldn't say that a samurai barber is impossible, just unlikely.
 
-Finally, as for why there is no cybertech in my book, I just thought it would be fun to write it this way.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FxEu2hiSSgY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I take back what I said about samurai barbers!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FxEu2hiSSgY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </details>
