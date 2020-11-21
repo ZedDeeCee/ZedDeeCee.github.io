@@ -57,7 +57,7 @@ If you want to read about the scientific basis for the book, read [The Science B
   }
 </style>
 <div id="goodreads-widget" style="width:100%;height:300px">
-  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/55723124-samurai-barber-versus-ninja-hairstylist">Goodreads reviews for Samurai Barber Versus Ninja Hairstylist</a></h1></div>
+  <div id="gr_header"><h1><a rel="nofollow" target="_blank" href="https://www.goodreads.com/book/show/55723124-samurai-barber-versus-ninja-hairstylist">Goodreads reviews for Samurai Barber Versus Ninja Hairstylist</a></h1></div>
   <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&format=html&header_text=Goodreads+reviews+for+Samurai+Barber+Versus+Ninja+Hairstylist&isbn=B08L97RZ91&links=660&min_rating=&num_reviews=&review_back=ffffff&stars=000000&stylesheet=&text=444" style="width:100%;height:300px" frameborder="0"></iframe>
   <div id="gr_footer">
     <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/55723124-samurai-barber-versus-ninja-hairstylist?utm_medium=api&utm_source=reviews_widget">Reviews from Goodreads.com</a>

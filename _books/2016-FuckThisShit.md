@@ -54,7 +54,7 @@ Where to get it: [[Universal Book Link]](https://books2read.com/u/3RaXgp){:targe
   }
 </style>
 <div id="goodreads-widget" style="width:100%;height:300px">
-  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/30156759-fuck-this-shit">Goodreads reviews for Fuck This Shit</a></h1></div>
+  <div id="gr_header"><h1><a rel="nofollow" target="_blank"  href="https://www.goodreads.com/book/show/30156759-fuck-this-shit">Goodreads reviews for Fuck This Shit</a></h1></div>
   <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&format=html&header_text=Goodreads+reviews+for+Fuck+This+Shit&isbn=1530810418&links=660&review_back=fff&stars=000&text=000" style="width:100%;height:300px" frameborder="0"></iframe>
   <div id="gr_footer">
     <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/30156759-fuck-this-shit?utm_medium=api&utm_source=reviews_widget">Reviews from Goodreads.com</a>
