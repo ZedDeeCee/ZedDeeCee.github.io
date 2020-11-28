@@ -261,3 +261,27 @@ table {
   justify-content: space-around;
   align-content: space-around;
 }
+
+.goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:100%;
+
+  h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  a:hover { text-decoration: underline; }
+  a:active {
+    color:#660;
+  }
+}

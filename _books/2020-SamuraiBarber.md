@@ -2,6 +2,8 @@
 layout: book
 title: Samurai Barber Versus Ninja Hairstylist
 ImageLink: /content/images/SamuraiBarberCover.jpg
+goodreadsLink: https://www.goodreads.com/book/show/55723124-samurai-barber-versus-ninja-hairstylist
+goodreadsReviewLink: https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&format=html&header_text=Goodreads+reviews+for+Samurai+Barber+Versus+Ninja+Hairstylist&isbn=B08L97RZ91&links=660&min_rating=&num_reviews=&review_back=ffffff&stars=000000&stylesheet=&text=444
 ---
 Genre: Sci-fi
 
@@ -15,52 +17,9 @@ The Samurai Barber must step up and cut down the evil strands on the Ninja Hairs
 
 <div style="clear: left"></div>
 
-Where to get it: [[Universal Book Link]](https://books2read.com/SamuraiBarberVersusNinjaHairstylist){:target="_blank"} [[Paperback direct from Matador]](https://www.troubador.co.uk/bookshop/sci-fi/samurai-barber-versus-ninja-hairstylist/){:target="_blank"}
+Where to get it: [[Universal Book Link]](https://books2read.com/SamuraiBarberVersusNinjaHairstylist){:target="_blank"} [[Matador]](https://www.troubador.co.uk/bookshop/sci-fi/samurai-barber-versus-ninja-hairstylist/){:target="_blank"}
 
 [Read a sample](/content/SamuraiBarberVersusNinjaHairstylistSample.pdf){:target="_blank"}
 
 If you want to read about the scientific basis for the book, read [The Science Behind Samurai Barber Versus Ninja Hairstylist](/2020/11/12/barber-science.html){:target="_blank"}.
-
-<style>
-  #goodreads-widget {
-    font-family: georgia, serif;
-    padding: 18px 0;
-    width:575px;
-  }
-  #goodreads-widget h1 {
-    font-weight:normal;
-    font-size: 16px;
-    border-bottom: 1px solid #BBB596;
-    margin-bottom: 0;
-  }
-  #goodreads-widget a {
-    text-decoration: none;
-    color:#660;
-  }
-  iframe{
-    background-color: #ffffff;
-  }
-  #goodreads-widget a:hover { text-decoration: underline; }
-  #goodreads-widget a:active {
-    color:#660;
-  }
-  #gr_footer {
-    width: 100%;
-    border-top: 1px solid #BBB596;
-    text-align: right;
-  }
-  #goodreads-widget .gr_branding{
-    color: #382110;
-    font-size: 11px;
-    text-decoration: none;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  }
-</style>
-<div id="goodreads-widget" style="width:100%;height:300px">
-  <div id="gr_header"><h1><a rel="nofollow" target="_blank" href="https://www.goodreads.com/book/show/55723124-samurai-barber-versus-ninja-hairstylist">Goodreads reviews for Samurai Barber Versus Ninja Hairstylist</a></h1></div>
-  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&format=html&header_text=Goodreads+reviews+for+Samurai+Barber+Versus+Ninja+Hairstylist&isbn=B08L97RZ91&links=660&min_rating=&num_reviews=&review_back=ffffff&stars=000000&stylesheet=&text=444" style="width:100%;height:300px" frameborder="0"></iframe>
-  <div id="gr_footer">
-    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/55723124-samurai-barber-versus-ninja-hairstylist?utm_medium=api&utm_source=reviews_widget">Reviews from Goodreads.com</a>
-  </div>
-</div>
  
