@@ -23,8 +23,9 @@
   {% if page.image %}
   <meta name="twitter:card"  content="summary_large_image">
   <meta name="og:image" content="{{ page.image }}"> 
-  {% else %}
+  {% elsif page.smallImage %}
   <meta name="twitter:card"  content="summary">
+  <meta name="og:image" content="{{ page.smallImage }}"> 
   {% endif %}
 <!-- end of Twitter cards -->
 </head>
