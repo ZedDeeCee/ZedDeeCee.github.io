@@ -7,7 +7,7 @@ comments: true
 summary: "Where I wade through the thousands of indie / small press books in a pseudorandom way."
 ---
 
-To me, 5-star reads are books which expand my thinking in some way, change my life. When I read [Kurt Vonnegut's Slaughterhouse Five](https://www.amazon.com/Slaughterhouse-Five-Novel-Modern-Library-Novels-ebook/dp/B000SEGHT6/){:target="_blank"}, it blew my mind.
+To me, ★★★★★ reads are books which expand my thinking in some way, change my life. When I read [Kurt Vonnegut's Slaughterhouse Five](https://www.amazon.com/Slaughterhouse-Five-Novel-Modern-Library-Novels-ebook/dp/B000SEGHT6/){:target="_blank"}, it blew my mind.
 
 See, before that, when I've tried to write stories, I wrote descriptions which were super crappy because that just isn't the way my brain works. Even when I read descriptions of people in books, my mind just defaults to a version of myself. Every character in every book I've ever read is some version of myself. It doesn't matter if the author described the person's eye color or hair color or whatever, in the end I just imagine me as the characters. The same with places or objects, I read them and imagine something totally different from what is on the page, something that conforms to my idea of *castle* instead of the castle with steeples and whatever in the book.
 

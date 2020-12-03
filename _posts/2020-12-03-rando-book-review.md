@@ -4,7 +4,7 @@ title: "Rando Book Review: They All Died Screaming"
 date: 2020-12-03 01:00
 author: Zed Dee
 comments: true
-summary: "4 / 5. This is literally, and I mean *literally*, the shittiest book I've ever read."
+summary: "★★★★✰. This is literally, and I mean *literally*, the shittiest book I've ever read."
 image: https://m.media-amazon.com/images/I/41o0UX6VNxL.jpg
 ---
 
@@ -16,4 +16,4 @@ There's lots of splatter, all of it described in disgusting detail. Sometimes it
 
 But despite all that I found myself enjoying this and zipped through it quickly. Which kinda of surprised me because these are shitty people doing really shitty, sometimes repugnant things. I think it's because buried deep underneath all the filth and grime, this was at its core a story about human connections.
 
-4 / 5
+★★★★✰
