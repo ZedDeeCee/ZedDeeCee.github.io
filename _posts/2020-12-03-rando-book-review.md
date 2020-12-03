@@ -4,6 +4,8 @@ title: "Rando Book Review: They All Died Screaming"
 date: 2020-12-03 01:00
 author: Zed Dee
 comments: true
+summary: 4 / 5. This is literally, and I mean *literally*, the shittiest book I've ever read.
+image: https://m.media-amazon.com/images/I/41o0UX6VNxL.jpg
 ---
 
 [![They All Died Screaming](https://m.media-amazon.com/images/I/41o0UX6VNxL.jpg)](https://www.amazon.com/They-Died-Screaming-Kristopher-Triana-ebook/dp/B08748PBL5){:target="_blank"}

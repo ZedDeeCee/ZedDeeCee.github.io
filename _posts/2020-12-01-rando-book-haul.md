@@ -4,6 +4,7 @@ title: "Rando Book Haul 1st Dec 2020"
 date: 2020-12-01 01:00
 author: Zed Dee
 comments: true
+summary: Where I wade through the thousands of indie / small press books in a pseudorandom way.
 ---
 
 To me, 5-star reads are books which expand my thinking in some way, change my life. When I read [Kurt Vonnegut's Slaughterhouse Five](https://www.amazon.com/Slaughterhouse-Five-Novel-Modern-Library-Novels-ebook/dp/B000SEGHT6/){:target="_blank"}, it blew my mind.
