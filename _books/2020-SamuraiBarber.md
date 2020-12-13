@@ -19,7 +19,7 @@ The Samurai Barber must step up and cut down the evil strands on the Ninja Hairs
 
 Where to get it: [[Universal Book Link]](https://books2read.com/SamuraiBarberVersusNinjaHairstylist){:target="_blank"} [[Matador]](https://www.troubador.co.uk/bookshop/sci-fi/samurai-barber-versus-ninja-hairstylist/){:target="_blank"}
 
-[Read a sample](/content/SamuraiBarberVersusNinjaHairstylistSample.pdf){:target="_blank"}
+Read a sample: [[Amazon]](https://www.amazon.com/reader/B08L97RZ91/){:target="_blank"}
 
 If you want to read about the scientific basis for the book, read [The Science Behind Samurai Barber Versus Ninja Hairstylist](/2020/11/12/barber-science.html){:target="_blank"}.
  
