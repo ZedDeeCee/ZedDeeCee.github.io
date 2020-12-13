@@ -4,13 +4,13 @@ title: "Rando Book Review: Operation Thunder Child"
 date: 2020-12-13 01:00
 author: Zed Dee
 comments: true
-summary: ""
+summary: "★★★✰✰. It was refreshing to read something that was more about how an organisation, instead of a single person, deals with an alien invasion."
 image: https://m.media-amazon.com/images/I/41eIU8TSieL.jpg
 ---
 
 [![Operation Thunder Child](https://m.media-amazon.com/images/I/41eIU8TSieL.jpg)](https://www.amazon.com/Operation-Thunder-Child-Nick-Pope-ebook/dp/B08KW7YTYJ){:target="_blank"}
 
-This seemed to be more about how an organisation, instead of a single person, deals with an alien invasion. It was refreshing to read something like this, which was more about the protocol rather than the adventures a protagonist. It seemed to be realistic in this way; the author used to run the British Government's UFO project after all.
+It was refreshing to read something that was more about how an organisation, instead of a single protagonist or a small group of people, deals with an alien invasion. It seemed to be realistic in this way; the author used to run the British Government's UFO project after all.
 
 But, the aliens and the reason about why they are here and why we can actually defend ourselves against an interstellar civilization seemed unrealistic. I just didn't buy the explanation that was given.
 
