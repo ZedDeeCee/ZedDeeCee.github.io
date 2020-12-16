@@ -23,10 +23,9 @@ I've only briefly skimmed through the Descartes page on Wikipedia and I have no 
 
 There is even a section in Chapter 12 that is probably a big spoiler for *Notes from the Underground*. I haven't read it, so I don't know if it is a spoiler or not, but I probably never will now as I absolutely despise spoilers. But, whether it is a spoiler or not, I have no idea what the author was trying to communicate as I have never read it before.
 
-There were also numerous mistakes in the span of a few pages in Chapter 12 that made me think that this book required more editing. Examples:
+There were also a couple of mistakes in the span of a few pages in Chapter 12 that made me think that this book required more editing. Examples:
 
 - "pack of cigarette." instead of "pack of cigarettes." 
-- "I must rely on my instinct." instead of "I must rely on my instincts."
 - "I hadn't worked on the VE case, so came a few days too early for the diamonds." What came a few days too early?
 
 I don't know if I would have enjoyed this more if I have read those books that the author keeps referring to. But I know that I'm not the target audience for this. That, together with the numerous mistakes, made me stop wanting to read this any further.
