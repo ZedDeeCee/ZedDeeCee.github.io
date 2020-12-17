@@ -17,9 +17,11 @@ I got back 5 numbers: 20, 8, 33, 89, 160.
 
 --- 
 
-Distortion
+## Page 20
 
 [![Distortion](https://m.media-amazon.com/images/I/31xxTQneNwL.jpg)](https://www.amazon.com/Distortion-Mohan-Sha-ebook/dp/B08MBBC4HD){:target="_blank"}
+
+# Distortion by Mohan Sha
 
 It starts off with an error. Also doesn't help that the first sentence is a run-on sentence that mixes tenses.
 
@@ -41,21 +43,23 @@ Page 8 is https://www.amazon.com/s?i=digital-text&bbn=158591011&rh=n%3A158591011
 
 ---
 
-Sacha Rescues Earth
+## Page 8
 
 [![Sacha Rescues Earth](https://m.media-amazon.com/images/I/41ZpiQPs+OL._SY346_.jpg)](https://www.amazon.com/Sacha-Rescues-Earth-Daniel-Sandoval-ebook/dp/B08MD4NN8L){:target="_blank"}
 
+# Sacha Rescues Earth by Daniel Sandoval
+
 It starts off with a description of a scene, which is not for me. I read things like this and it goes  into some cognitive black hole. After that, it was written in a way that made me feel distant from the characters. I'm gonna have to pass on this one.
 
----
-
-Page 8 was also filled with public domain works published long ago. Page 33 only had books in a series or short story collections. Onward to page 89!
+***Page 8 was also filled with public domain works published long ago. Page 33 only had books in a series or short story collections.***
 
 ---
 
-Nebula
+## Page 89
 
 [![Nebula](https://m.media-amazon.com/images/I/41KmCkhQD8L.jpg)](https://www.amazon.com/Nebula-Linus-TAVANA-ebook/dp/B08LD5T3PV){:target="_blank"}
+
+# Nebula by Linus TAVANA 
 
 The description already has some warning flags but I decided to go ahead and preview it.
 
@@ -63,39 +67,31 @@ The description already has some warning flags but I decided to go ahead and pre
 
 Yea, I think I should start saving time and filter out books that have wonky descriptions.
 
----
-
-Colony: Life on Mars
-
 [![Colony: Life on Mars](https://m.media-amazon.com/images/I/518VA8mLonL.jpg)](https://www.amazon.com/Colony-Life-Paul-R-Jarvis-ebook/dp/B08LF5CJZ3){:target="_blank"}
+
+# Colony: Life on Mars by Paul R. E. Jarvis
 
 The description seems okay. The writing in the preview seems error free, but it starts off with some musings about humanity, which seems disconnected from the character that shows up in the next paragraph. But at least it's short. Unfortunately, said character is looking into a mirror, right before a description of how the character looks.
 
 There's nothing technically wrong with the writing, and I'm sure some people will be perfectly fine with this book. I'm not one of those people though.
 
----
-
-Paladin's Luck
-
 [![Paladin's Luck](https://m.media-amazon.com/images/I/41wPnCQSbJL.jpg)](https://www.amazon.com/Paladins-Luck-darryl-young-ebook/dp/B08LD2KTM3){:target="_blank"}
+
+# Paladin's Luck by darryl young
 
 The description seemed clunky to me.
 
----
-
-The Year of Greats
-
 [![The Year of Greats](https://m.media-amazon.com/images/I/51H78yutjBL.jpg)](https://www.amazon.com/Year-Greats-Novel-Marleen-Kunze-ebook/dp/B08LCYVG8F){:target="_blank"}
+
+# The Year of Greats by Marleen Kunze
 
 From the description, this book was written to "present the discovery of conservative family values and the power of prayer, and scripture, across the backdrop of end-times disasters and fulfilled prophesy".
 
 I'm agnostic, so Christian fiction with a dash of science-fiction, like this, is exactly the type of science-fiction that I do not want to read.
 
----
-
-The Last American
-
 [![The Last American](https://m.media-amazon.com/images/I/51uz27YUljL.jpg)](https://www.amazon.com/Last-American-Nicholas-Rogness-ebook/dp/B08LHMX9HN){:target="_blank"}
+
+# The Last American by Nicholas Rogness
 
 It starts off with some kind of foreword by the author that gives an explanation of *why* he wrote it. I personally don't like this as it's telling me how to interpret the book before I've even read it.
 
@@ -105,13 +101,11 @@ Mistakes like this in the first pages are a big NO for me. They make me think th
 
 ---
 
-That's it for page 89. Now, onto the last page I will look at today, page 160.
-
----
-
-Winner: Operation Thunder Child
+## Page 160
 
 [![Operation Thunder Child](https://m.media-amazon.com/images/I/41eIU8TSieL.jpg)](https://www.amazon.com/Operation-Thunder-Child-Nick-Pope-ebook/dp/B08KW7YTYJ){:target="_blank"}
+
+# Operation Thunder Child by Nick Pope
 
 I was beginning to think I wouldn't find anything today. I had spent close to 2 hours already and wasn't going to continue if there was nothing on page 160. Then I found this, and the writing just grabbed me.
 

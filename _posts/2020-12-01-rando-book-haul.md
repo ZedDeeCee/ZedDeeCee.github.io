@@ -29,29 +29,23 @@ Amazon has pitiful discovery tools when compared to something like Steam. But I 
 
 --- 
 
-First up: Seven of Infinities
-
 [![Seven of Infinities](https://m.media-amazon.com/images/I/519pEkJ8AwL.jpg)](https://www.amazon.com/Seven-Infinities-Aliette-Bodard-ebook/dp/B08L17LFYV){:target="_blank"}
+
+# Seven of Infinities by Aliette de Bodard
 
 I looked through a couple of paragraphs in the preview and nothing jumped out at me that would make me pass on this. There's some interesting worldbuilding going on, like people who seem to be spaceships, but it just didn't grab my attention.
 
----
-
-Next: The Luminous Ones
-
 [![The Luminous Ones](https://m.media-amazon.com/images/I/41WXTYRk9RL.jpg)](https://www.amazon.com/Luminous-Ones-Nicholas-Ashbaugh-ebook/dp/B08HKTQ18P){:target="_blank"}
+
+# The Luminous Ones by Nicholas Ashbaugh 
 
 Starting with an infodump prologue makes me sad. The prologue also reads like a fantasy instead of 
 science-fiction, what with ancient evils and words like *Alas*. I couldn't get past the first paragraph of the first chapter because it didn't read like what I thought the year One Billion would sound like. The 9.99 price doesn't help either.
 
----
-
-Winner: They All Died Screaming
-
 [![They All Died Screaming](https://m.media-amazon.com/images/I/41o0UX6VNxL.jpg)](https://www.amazon.com/They-Died-Screaming-Kristopher-Triana-ebook/dp/B08748PBL5){:target="_blank"}
+
+# They All Died Screaming by Kristopher Triana
 
 This is more horror than science-fiction but it grabbed me from the start. Something about the writing just makes it easy for me to follow.
 
----
-
-So that's it! I think I was lucky this time, getting something I can tolerate reading just 3 books in. I'll post a review when I'm done.
+***So that's it! I think I was lucky this time, getting something I can tolerate reading just 3 books in. I'll post a review when I'm done.***

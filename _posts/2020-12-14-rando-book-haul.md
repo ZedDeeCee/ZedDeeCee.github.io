@@ -15,9 +15,11 @@ Anyway, here goes: [Page 137 of science fiction books released in Nov 2020](http
 
 --- 
 
-All True Value
+## Page 137
 
 [![All True Value](https://m.media-amazon.com/images/I/51iMlKbJ+uL.jpg)](https://www.amazon.com/All-True-Value-David-Matuszek-ebook/dp/B08NFGLCDK){:target="_blank"}
+
+# All True Value by David Matuszek
 
 The description is kinda meandering but at least there wasn't anything technically wrong with it. The length of 545 pages gave me pause though. This is a long book.
 
@@ -27,11 +29,9 @@ Then there were the aliens communicating in English, albeit translated, which tu
 
 The weak description and long length, combined with a prologue and first chapter that I didn't find interesting, makes this a pass for me.
 
----
-
-Echoes: Lucifer and the Dark Goddess
-
 [![Echoes: Lucifer and the Dark Goddess](https://m.media-amazon.com/images/I/51rlTaZeyXL.jpg)](https://www.amazon.com/Echoes-Lucifer-Goddess-nikki-broadwell-ebook/dp/B08NFGP4PR){:target="_blank"}
+
+# Echoes: Lucifer and the Dark Goddess by nikki broadwell
 
 The first sentence in the prologue is:
 
@@ -41,11 +41,9 @@ This was really hard to parse. Even then, I'm not sure I got the meaning. There 
 
 Whatever the case, I can't read the first sentence. Pass.
 
----
-
-Anchorite: A WorldSim Novel
-
 [![Anchorite: A WorldSim Novel](https://m.media-amazon.com/images/I/41abX589oiL.jpg)](https://www.amazon.com/Anchorite-WorldSim-C-S-Hall-ebook/dp/B08NFGCR3X){:target="_blank"}
+
+# Anchorite: A WorldSim Novel by C. S. Hall 
 
 The preface started off really well, like there was some voice there. But the first chapter starts off like this:
 
@@ -59,11 +57,9 @@ Second, I don't think this is the way to use the word [onomatopoeia](https://www
 
 I don't think onomatopoeias have sounds.
 
----
-
-MAW
-
 [![MAW](https://m.media-amazon.com/images/I/41QutJm+qEL.jpg)](https://www.amazon.com/MAW-Danielle-DeVor-ebook/dp/B08NFH3N46){:target="_blank"}
+
+# MAW by Danielle DeVor
 
 The first few sentences:
 
@@ -73,37 +69,31 @@ If Marko was literally frozen, then he would be ice cold or in a block of ice.
 
 ---
 
-Chasing the Dawn: Book 1 of the Eternal Crusade Continuum
-
 [![Chasing the Dawn: Book 1 of the Eternal Crusade Continuum](https://m.media-amazon.com/images/I/51OOgVsEhtL.jpg)](https://www.amazon.com/Chasing-Dawn-Eternal-Crusade-Continuum-ebook/dp/B08NDJN2HT){:target="_blank"}
+
+# Chasing the Dawn: Book 1 of the Eternal Crusade Continuum by Geoffery C.Carter
 
 I couldn't get past the first two sentences in the description. Places don't fall under invasions and people survive due to, not under, someone's bravery.
 
----
-
-How Our World Ended
-
 [![How Our World Ended](https://m.media-amazon.com/images/I/51IKxilk42L.jpg)](https://www.amazon.com/How-World-Ended-Arthur-Wiese-ebook/dp/B08NFJDSDL){:target="_blank"}
+
+# How Our World Ended by Arthur C Wiese Jr
 
 Multiple typos in the description in the four line description.
 
 ---
 
-That was page 137. Onward to page 180.
-
----
-
-Spaceship Vision: One Tin Soldier
+## Page 180.
 
 [![Spaceship Vision: One Tin Soldier](https://m.media-amazon.com/images/I/51Z5tFacgDL.jpg)](https://www.amazon.com/Spaceship-Vision-One-Tin-Soldier-ebook/dp/B08F2XH3R6){:target="_blank"}
 
+# Spaceship Vision: One Tin Soldier by Elton Gahr
+
 First sentence in the description is missing a comma. Second one too. Is this how the whole book is going to be?
 
----
-
-Dominion of the Divine: Origin
-
 [![Dominion of the Divine: Origin](https://m.media-amazon.com/images/I/51pbzLaRdSL.jpg)](https://www.amazon.com/Dominion-Divine-J-S-Nathaniel-ebook/dp/B086HGFD33){:target="_blank"}
+
+# Dominion of the Divine: Origin by J.S. Nathaniel Nathaniel
 
 The description has some grammar mistakes.
 
@@ -119,73 +109,61 @@ Cats have systematically annihilated powerful civilizations since the beginning 
 
 Ouroboroi(?) have systematically annihilated powerful civilizations since the beginning of time...
 
----
-
-The Hand Bringer
-
 [![The Hand Bringer](https://m.media-amazon.com/images/I/51ewVA2LEaL._SY346_.jpg)](https://www.amazon.com/Hand-Bringer-Christopher-J-Penington-ebook/dp/B08NFRZTTN){:target="_blank"}
+
+# The Hand Bringer by Christopher J. Penington
 
 The description cuts off abruptly. The description on the paperback edition seems okay though. But paperback was published in 2017, which makes me wonder why the ebook is being published only now. Anyway, if the publisher/author can't be bothered to do basic checking on the Kindle version, then I won't be bothered to spend money on it.
 
----
-
-Rogue Justice
-
 [![Rogue Justice](https://m.media-amazon.com/images/I/41rmA2oYnOL.jpg)](https://www.amazon.com/Rogue-Justice-Ronald-Kaehr-ebook/dp/B08NFPZDCR){:target="_blank"}
+
+# Rogue Justice by Ronald Kaehr
 
 This is another book by Page Publishing, which published the previous book with the cut-off description. This book was also first published in 2017. What's going on here? Why are all these ebooks by Page Publishing being republished again?
 
 Anyway, $9.99 was a bit steep.
 
----
-
-The rest of the page is filled with Page Publishing books first published in 2017 with a $9.99 price tag. Hopefully page 121 doesn't have many of these.
+***The rest of the page was filled with Page Publishing books first published in 2017 with a $9.99 price tag.***
 
 ---
 
-Kingdom of a thousand: The best sience fiction
+## Page 121
 
 [![Kingdom of a thousand: The best sience fiction](https://m.media-amazon.com/images/I/41kJgyoWMuL.jpg)](https://www.amazon.com/Kingdom-thousand-best-sience-fiction-ebook/dp/B08NK7NXWP){:target="_blank"}
 
+# Kingdom of a thousand: The best sience fiction by Eftos Ent
+
 WTF is this?
 
----
-
-EUROPA
-
 [![EUROPA ](https://m.media-amazon.com/images/I/51MSOt1p+8L._SY346_.jpg)](https://www.amazon.com/EUROPA-J-KURT-ebook/dp/B08NK4SWJT){:target="_blank"}
+
+# EUROPA by A. J. KURT
 
 Skipped due to janky description.
 
 ---
 
-Page 127 now.
-
----
-
-Smartly Dressed Violence
+## Page 127
 
 [![Smartly Dressed Violence](https://m.media-amazon.com/images/I/41MdNZ6onoL.jpg)](https://www.amazon.com/Smartly-Dressed-Violence-Mark-Ryan-ebook/dp/B08NHML2LF){:target="_blank"}
+
+# Smartly Dressed Violence by Mark Ryan
 
 The title was interesting. However, the first sentence in the description is probably missing some commas.
 
 ---
 
-Last page, both for my random numbers and the actual last page for books published in November.
-
----
-
-Cause and Consequence
+## Page 214.
 
 [![Cause and Consequence](https://m.media-amazon.com/images/I/41F5vXcy7bL.jpg)](https://www.amazon.com/Cause-Consequence-Clyde-Holtcombe-ebook/dp/B08MCS191S){:target="_blank"}
 
+# Cause and Consequence by Clyde Holtcombe
+
 Nothing happened the first few paragraphs.
 
----
-
-Sharper Mind Darker Dreams
-
 [![Sharper Mind Darker Dreams](https://m.media-amazon.com/images/I/51fWTv0h1rL._SY346_.jpg)](https://www.amazon.com/Sharper-Mind-Darker-Dreams-Leonard-ebook/dp/B08CGBJFD4){:target="_blank"}
+
+# Sharper Mind Darker Dreams by Leonard Seet
 
 I usually cringe when I read self praise in the description but that's just me. I'm not going to judge others for doing it.
 
