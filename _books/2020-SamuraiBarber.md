@@ -9,7 +9,11 @@ Genre: Sci-fi
 
 Release Date: 28th Nov 2020
 
-<strong>Change is in the hair.</strong>
+**A novel premise that comes out of left field but launches an oddly poignant adventure.** - [***Kirkus Reviews***](https://www.kirkusreviews.com/book-reviews/zed-dee2/samurai-barber-versus-ninja-hairstylist/){:target="_blank"} 
+
+**This distinctive novel will delight fans of genre-blending sci-fi, martial arts stories, and anime.** - [***BookLife***](https://booklife.com/project/samurai-barber-versus-ninja-hairstylist-51743){:target="_blank"}
+
+Change is in the hair.
 
 Ninjas are wreaking havoc by cutting people’s hair without their permission. Behind this follicular terrorism is a master ninja, the Ninja Hairstylist, whose chaotic hairstyle embodies the anarchy that is about to tear the city apart.
 
