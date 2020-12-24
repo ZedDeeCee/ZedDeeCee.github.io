@@ -11,7 +11,7 @@ Release Date: 28th Nov 2020
 
 **A novel premise that comes out of left field but launches an oddly poignant adventure.** - [***Kirkus Reviews***](https://www.kirkusreviews.com/book-reviews/zed-dee2/samurai-barber-versus-ninja-hairstylist/){:target="_blank"} 
 
-**This distinctive novel will delight fans of genre-blending sci-fi, martial arts stories, and anime.** - [***BookLife***](https://booklife.com/project/samurai-barber-versus-ninja-hairstylist-51743){:target="_blank"}
+**The Samurai Barber is the hero of a delightfully weird and imaginative story with a surprisingly tender heart.** - [***BookLife***](https://booklife.com/project/samurai-barber-versus-ninja-hairstylist-51743){:target="_blank"}
 
 Change is in the hair.
 
