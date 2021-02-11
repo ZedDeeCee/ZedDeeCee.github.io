@@ -21,3 +21,16 @@ layout: default
 </div>
 
 <hr style="clear:both;rounded;margin-top:1em;margin-bottom:1em">
+
+{%- if site.posts.size > 0 -%}
+	<h1>Latest Post</h1>
+	{%- assign latestPost = site.posts[0] -%}
+	{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+	<span class="post-meta">{{ latestPost.date | date: date_format }}</span> 
+	<a class="post-link" href="{{ latestPost.url | relative_url }}">
+	{{ latestPost.title | escape }}
+	</a>
+	{%- if site.show_excerpts -%}
+	  {{ latestPost.excerpt }}
+	{%- endif -%}
+{%- endif -%}
