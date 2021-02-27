@@ -8,7 +8,7 @@ summary: "★★★★✰. Sexy fun times."
 image: https://m.media-amazon.com/images/I/41IEBXb5R7L.jpg
 ---
 
-[Between Worlds (The Occupation Saga Book 1)](https://www.amazon.com/Between-Worlds-Occupation-Saga-Book-ebook/dp/B08VD7DKC7){:target="_blank"} by J.L. Williams 
+[![Between Worlds (The Occupation Saga Book 1)](https://m.media-amazon.com/images/I/41IEBXb5R7L.jpg)](https://www.amazon.com/Between-Worlds-Occupation-Saga-Book-ebook/dp/B08VD7DKC7){:target="_blank"}
 
 It has been a long time since I read John Scalzi's Old Man's War but I'm still pretty sure it wasn't as sexed up as this book. I mention this because the book's product description mentions that it was inspired by Old Man's War, which might put some people off because this book isn't as deep or philosophical.
 
