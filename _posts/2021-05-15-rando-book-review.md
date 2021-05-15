@@ -5,7 +5,7 @@ date: 2021-05-15 01:00
 author: Zed Dee
 comments: true
 summary: "★★★✰✰. Compelling protagonist but weak ending."
-image: https://m.media-amazon.com/images/I/51yjX6-JFwS.jpg
+image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619022083i/57812191._SR1200,630_.jpg
 ---
 
 [![Aurora](https://m.media-amazon.com/images/I/51yjX6-JFwS.jpg)](https://www.amazon.com/Aurora-Paul-Grzegorzek-ebook/dp/B092TP69Y3){:target="_blank"}
