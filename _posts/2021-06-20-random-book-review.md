@@ -198,13 +198,15 @@ Well that's the end of the random sequence. Since I didn't manage to find anythi
 
 ![Cover for The Lost War](https://m.media-amazon.com/images/I/51EfeSTx7tL.jpg)
 
-I almost put this book away. The beginning was very slow-paced, with the main character only having an overarching goal about one-third into the book. Before that, the main character is assigned a mission and it seems like he doesn't really want to do it, so he meanders about doing other stuff until he stumbles onto the main quest as it were.
+I almost put this book away. The beginning was very slow-paced, with the main character only having an overarching goal about one-third into the book. Before that, the main character is assigned a mission and it seemed like he didn't really want to do it, so he meandered about doing other stuff until he stumbled onto the main quest as it were.
 
 While the reason for this is kind of explained at the end, it still made for a boring read. I can't help but think that maybe the book should have started at a later point in the story.
 
-There were also some infodumps that didn't tie into the character in any way, being just descriptions of things that happened in the past to a certain place or city. I personally can't recall any of the details of such infodumps. If the characters don't care about that information, I don't either.
+There were also some infodumps that didn't tie into the characters in any way, being just descriptions of things that happened in the past to a certain place. I personally can't recall any of the details of such infodumps. If the characters don't care about that information, I don't either.
 
-The beginning of the book also employs this third-person omniscient style that made it hard for me to follow the story. I had to reread whole paragraphs at certain points because there were too many perspective shifts and I kind of lost track. For example, a paragraph would start off with character A doing something. Then later on in the same paragraph, character A would be referred to as "the archer". For a moment there I thought there were two archers, because who refers to themselves as "the archer"? But actually, the perspective had shifted to character B and it was B referring to A as "the archer". But the fight scenes seemed to be written in third-person limited, which made them really easy to follow and totally engrossing for me. The latter half of the book also seemed to forgo perspective shifts in the same paragraph, so either I got used to it or the writing became more focused.
+The beginning of the book also employed this third-person omniscient style that made it hard for me to follow the story. I had to reread whole paragraphs at certain points because there were too many perspective shifts and I kind of lost track. For example, a paragraph would start off with character A doing something. Then later on in the same paragraph, character A would be referred to as "the archer". For a moment there I thought there were two archers, because who refers to themselves as "the archer"? But actually, the perspective had shifted to character B and it was B referring to A as "the archer".
+
+But the fight scenes seemed to be written in third-person limited, which made them really easy to follow and totally engrossing for me. The latter half of the book also seemed to forgo perspective shifts in the same paragraph, so either I got used to it or the writing became more focused.
 
 Overall, there were some grim and macabre moments that I totally enjoyed. The writing is solid; I only found one typo near the 36% mark ("Nowt") and a mistake near the end where the author used "his eyes turned black" when I think it was supposed to be "his vision turned black". 
 
