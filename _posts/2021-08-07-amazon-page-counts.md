@@ -8,7 +8,7 @@ summary: "Don't."
 image: /content/images/AmazonPages.JPG
 ---
 
-Don't. Never ever use Amazon page count as a criteria, at least as a proxy for word count. The recent Self Published Science Fiction Competition asked for 50,000+ words as their entry criteria but changed it to 200+ Amazon pages on the assumption that 1 Amazon page == 250 words. I've also been told that the Self Published Fantasy Blog off also uses a similar criteria (not sure if it's true or not).
+Don't. Never ever use Amazon page count as a criteria, at least as a proxy for word count. The recent Self Published Science Fiction Competition asked for 50,000+ words as their entry criteria but [changed it to 200+ Amazon pages](http://web.archive.org/web/20210805012442/https://twitter.com/duncan_swan/status/1423092543139377153){:target="_blank"} on the assumption that 1 Amazon page == 250 words. I've also been told that the Self Published Fantasy Blog off also uses a similar criteria (not sure if it's true or not).
 
 First of all, 1 Amazon page != 250 words. Here are some numbers from books in my library that are DRM free.
 
