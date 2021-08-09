@@ -23,11 +23,17 @@ First of all, 1 Amazon page != 250 words. Here are some numbers from books in my
 | Wool | Hugh Howey | 158,654 | 594 | 267.09 |
 | Oathbringer | Brandon Sanderson | 458,430 | 1220 | 375.76 |
 
-As you can see, none of them are close to 250 words per page.
+As you can see, none of them are close to 250 words per page. At 398 words per page, a 40,000 word novel would have 101 pages, and at 267 words per page, it would have 150 pages. With such a large range, it is impossible to cull entries for word count based on page count alone.
 
 But wait, why are there two tables? What is a "real page" and a "kindle page"? As far as I can tell, there are three types of page counts. Some page counts have a down arrow beside them, which if you click will tell you if they are based on a print edition or if they are based on Kindle page turns. There is a last type with no arrow and I have no idea what that means.
 
 So how do you actually enforce a word count criteria?
+
+The good news is that Kobo actually lists word counts for ebooks sold on their store, so it can be easily checked if the title in question is sold there.
+
+![Kobo Word Count](/content/images/koboWordCount.jpg)
+
+The bad news is that not all authors publish on Kobo. If it isn't, here's what you can do instead:
 
 1: Install Calibre from [https://calibre-ebook.com/download](https://calibre-ebook.com/download){:target="_blank"}
 
