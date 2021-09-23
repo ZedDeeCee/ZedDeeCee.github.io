@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Random Book Haul & Review Sep 2021: Female Kill Machine"
-date: 2021-09-16 01:00
+date: 2021-09-21 01:00
 author: Zed Dee
 comments: true
 summary: "Where I judge books not by their covers but by their descriptions and first pages."
