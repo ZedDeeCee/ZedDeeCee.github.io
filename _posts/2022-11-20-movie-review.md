@@ -8,7 +8,7 @@ summary: "Considering that I wrote a novel that basically ended the same way, I 
 image: https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Crimes_of_the_Future_%282022_film%29.jpg/220px-Crimes_of_the_Future_%282022_film%29.jpg
 ---
 
-# [Crimes of the Future]
+# Crimes of the Future
 
 ![Crimes of the Future Theatrical Poster](https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Crimes_of_the_Future_%282022_film%29.jpg/220px-Crimes_of_the_Future_%282022_film%29.jpg)
 

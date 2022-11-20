@@ -8,7 +8,7 @@ summary: "★★★★✰ Mixed bag but somehow comes together at the end."
 image: https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Music_%282021_film%29.png/220px-Music_%282021_film%29.png
 ---
 
-# [Music]
+# Music
 
 ![Music Theatrical Poster](https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Music_%282021_film%29.png/220px-Music_%282021_film%29.png)
 
