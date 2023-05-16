@@ -18,4 +18,4 @@ Check out the full cover for the paperback!
 
 For the paperback and kindle versions, you will be able to get it from [Amazon](){:target="_blank"}.
 
-For Epub, Mobi and PDF versions you can get it from [Gumroad](https://zeddeecee.gumroad.com/l/SamuraiBarberVersusNinjaHairstylist){:target="_blank"}. You can actually specify your own price, starting from $0.99, on here. 
+For Epub, Mobi and PDF versions, you can get it from [Gumroad](https://zeddeecee.gumroad.com/l/SamuraiBarberVersusNinjaHairstylist){:target="_blank"}. 
