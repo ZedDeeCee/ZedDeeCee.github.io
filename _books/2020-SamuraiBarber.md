@@ -19,5 +19,5 @@ Set in a far-flung biotechnological future, SAMURAI BARBER VERSUS NINJA HAIRSTYL
 
 <div style="clear: left"></div>
 
-Where to get it: [Amazon](https://www.amazon.com/dp/B0C12N7ZNT){:target="_blank"}, [Gumroad](https://zeddeecee.gumroad.com/l/SamuraiBarberVersusNinjaHairstylist){:target="_blank"}
+Where to get it: [Universal Book Link](https://books2read.com/u/3nNeGB){:target="_blank"}, [Gumroad](https://zeddeecee.gumroad.com/l/SamuraiBarberVersusNinjaHairstylist){:target="_blank"}
  
