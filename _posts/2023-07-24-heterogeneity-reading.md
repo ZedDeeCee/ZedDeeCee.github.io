@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Heterogeneity of Reading Experiences"
-date: 2023-07-25 01:00
+date: 2023-07-24 01:00
 author: Zed Dee
 comments: true
 ---
