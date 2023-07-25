@@ -7,9 +7,9 @@ comments: true
 category: "BookNews"
 ---
 
-[![Cover](/content/images/SamuraiBarberVersusNinjaHairstylistCover.jpg)](/content/images/SamuraiBarberVersusNinjaHairstylistCover.jpg){:target="_blank"}
+2nd Edition of *Samurai Barber Versus Ninja Hairstylist* is now available in e-book and paperback form.
 
-2nd Edition of *Samurai Barber Versus Ninja Hairstylist* is now available in e-book and paperback form. 
+[![Cover](/content/images/SamuraiBarberVersusNinjaHairstylistCover.jpg)](/content/images/SamuraiBarberVersusNinjaHairstylistCover.jpg){:target="_blank"}
 
 This edition has a new Author's Notes section where I go into the science behind the science-fiction. It's now in the book because very few people actually read it when it was just a [post on this site](/2020/11/12/barber-science.html){:target="_blank"}. With a new edition comes a new cover. Designed by [NM Design](https://nmdesign.org){:target="_blank"}, I think it looks absolutely amazing.
 
