@@ -61,7 +61,7 @@ I kind of skipped through all of this, picking up words here and there like "log
 
 > The demon's head slowly turned. The beast stayed motionless for a long moment, then scurried away, faster than the shadow of a flying bird.
 
-This was a really strange comparison to make. How fast is a flying bird on this world? All I "see" is something like a drone shot where the shadow of a bird is gliding across desert dunes, the dunes' differences in height making the shadow warp and distort. Which doesn't really match with what I "see" before I read about the bird's shadow, which is just an Alien crawling or "scurrying" away.
+This is a really strange comparison to make. How fast is a flying bird on this world? All I "see" is something like a drone shot where the shadow of a bird is gliding across desert dunes, the dunes' differences in height making the shadow warp and distort. Which doesn't really match with what I "see" before I read about the bird's shadow, which is just an Alien crawling or "scurrying" away.
 
 Anyway, despite all this visual detail that I just ignored, I gave the book ★★★★✰ on Goodreads because Ahiliyah is simply a great character to read about. I didn't notice anymore strange comparisons or details that I ignored from this point on, either because the author didn't use them anymore or I had simply begun filtering them out so as to better devour all the character bits. The book also fulfils the promise of the title, giving battles between humans using phalanx tactics against hordes of Aliens.
 
