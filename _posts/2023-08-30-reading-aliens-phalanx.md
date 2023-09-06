@@ -37,7 +37,7 @@ Now, I know that the demon is an Alien, but I wonder what I would've imagine if 
 
 Okay, so she's on a mountain. At this point I'm imagining some desolate rocky place like Mount Everest.
 
-[![Mount Everest](https://images.pexels.com/photos/12798654/pexels-photo-12798654.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://www.pexels.com/photo/mount-everest-12798654/){:target="_blank"}
+[![Mount Everest](/content/images/mount everest.jpeg)](https://www.pexels.com/photo/mount-everest-12798654/){:target="_blank"}
 
 > Black lips curled back. Sunlight gleamed off metallic teeth. The jaws slowly opened; the toothtongue extended. It, too, opened—the demon let out a low, barely audible hiss. It angled its long black head left, then right.
 
