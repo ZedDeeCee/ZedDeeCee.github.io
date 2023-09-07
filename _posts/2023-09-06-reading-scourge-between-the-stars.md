@@ -63,7 +63,7 @@ What does "modulated regretfully" even mean? More importantly, what is Jacklyn's
 
 Apparently, her reaction was to shudder. Again I have no idea why. For all I know, she shuddered because of the cold air from the vents. Then she pushed her braids back with a beanie. I'm imagining her holding a beanie with one hand and pushing her braids back with that hand, but who does that instead of using the hand that isn't holding anything? Instead of irrelevant details like these, I'd rather know what she thinks of Watson.
 
-Unfortunately for me, the whole book is written like this; at a great distance from Jacklyn's mind. Here's a few examples from the next page:
+Unfortunately for me, the whole book is written like this; at a great distance from Jacklyn's mind. Here are a few examples from the next page:
 
 > The sight of Otto’s space-pale hand against its artificial skin, the same color as Jacklyn’s, rankled. That he had given it his own name rankled worse.
 
@@ -111,7 +111,7 @@ Whose face is it? We only learn this in Chapter 8 out of 9, nearly the end of th
 
 > Jacklyn sobbed. This was a face that she did know. It wasn’t the exact plate that Kimberly had started wearing after the engagement that ruined her real face, but it was the same model—the same shape, the same color. And it had the same effect on Jacklyn.
 
-Kimberly is Jacklyn's sister. I think the author thought that this revelation might explain Jacklyn's behaviour earlier in the book where she got rankled and stuff, but Watson isn't using Kimberly's face, only a similar face plate (which I imagine is something like a helmet), which makes her behaviour even more unreasonable. Was her whole beef with Otto down to him using the same model and color faceplate that her sister had used? He probably didn't even know! What a petty woman! And why was this revealed only at the end of the book? A reasonable person would have had noticed the similarity and had an emotional reaction right at the start of the book. In this case, it is more than a hundred pages between Jackyln being spooked by Watson and having the appropriate emotional reaction. Talk about 'distant' writing!
+I think the author thought that this revelation might explain Jacklyn's behaviour earlier in the book where she got rankled and stuff, but Watson isn't using Kimberly's face, only a similar face plate (which I imagine is something like a helmet?), which makes her behaviour even more unreasonable. Was her whole beef with Otto down to him using the same model and color faceplate that her sister had used? He probably didn't even know! What a petty woman! And why was this revealed only at the end of the book? A reasonable person would have had noticed the similarity and had an emotional reaction right at the start of the book. In this case, it is more than a hundred pages between Jackyln being spooked by Watson and having the appropriate emotional reaction. Talk about 'distant' writing!
 
 Let's move on to another incident where I was taken completely out of the story.
 
@@ -125,20 +125,20 @@ However, some paragraphs later:
 
 > It took only seconds to contain the blaze, but the damage had been done. The console was ruined, and its officer was rolling on the ground, clutching their face and shouting.
 
-Oh, "they" referred to the Comms officer. Now, I've got no problem with the singular 'they'. What I've got a problem with is using the singular 'they' when it might be confused for the plural version. The author, or perhaps it's the editor, should have made it clear which 'they' they were using, so that readers are not taken out of the story when they realise they had been reading with the wrong 'they'.
+Oh, "they" referred to the Comms officer. Now, I've got no problem with the singular "they". What I've got a problem with is using the singular "they" when it might be confused for the plural version. The author, or perhaps it's the editor, should have made it clear which "they" they were using, so that readers are not taken out of the story when they realise they had been reading with the wrong "they".
 
-There are more singular 'they's scattered throughout and I don't remember much about them, so either they were used correctly and it was clear that they were singular 'they's, or they could have been read as a plural 'they' as well and I misunderstood the author's intentions. But I found the most problematic singular 'they' at the very end of the book, in the About The Author section:
+There are more singular theys scattered throughout and I don't remember much about them, so either they were used correctly and it was clear that they were singular theys, or they could have been read as a plural they as well and I misunderstood the author's intentions. But I found the most problematic singular "they" at the very end of the book, in the About The Author section:
 
-> NESS BROWN is a speculative fiction author by day and astrophysicist by night. They are a proud New Mexican living in New York City (and missing green chile) with their husband and two cats, Faust and Mephi. They are currently studying graduate astrophysics after several years of teaching astronomy and encouraging students to wonder about worlds beyond our own.
+> NESS BROWN is a speculative fiction author by day and astrophysicist by night. They are a proud New Mexican living in New York City (and missing green chile) with their husband and two cats, Faust and Mephi. They are currently studying graduate astrophysics after several years of teaching astronomy and encouraging students to wonder about worlds beyond our own. The Scourge Between Stars is their debut.
 
-This usage of 'they' irks me to no end, because if you want to use the singular 'they', you've got to follow the rest of English grammar and use 'they is', not 'they are'. Is their husband and/or two cats also studying graduate astrophysics? Probably not the cats since cats can't teach astronomy. Sure, it's quite unlikely that the husband is also studying graduate astrophysics after several years teaching astronomy, but it's not impossible.
+This usage of "they" irks me to no end, because if you want to use the singular "they", you've got to follow the rest of English grammar and use "they is", not "they are". Is their husband (and two cats?) also studying graduate astrophysics? Probably not the cats since cats can't teach astronomy. Sure, it's quite unlikely that the husband is also studying graduate astrophysics after several years teaching astronomy, but it's not impossible.
 
 "They is a proud New Mexican" and "They is currently studying graduate astrophyics" would have prevented any possible confusion.
 
 The author also stated that they finished the story in a little under a month. It shows. This reads like an early draft where some ideas were put in but not fully fleshed out. There is a whole thread about not opening the door, which is even the tagline of the book, but in the end it is not clear what door they is talking about.
 
-Take for example this section where Watson cries out, "It's coming through the door. We have to close it. Close it—!" Then Watson lunges for the comms stations, punches it until it explodes, and the Comms officer gets injured.
+Take for example this section where Watson cries out, "It's coming through the door. We have to close it. Close it—!" Then Watson lunges for the Comms station, punches it until it explodes, and the Comms officer gets injured.
 
-Besides this incident, there are multiple instances of Watson stating that some 'they' is opening 'the door', not a door but 'the' door. There is even a mysterious message from the captain of another ship saying "Please. Don't open the door."
+Besides this incident, there are multiple instances of Watson stating that some "they" is opening "the door", not a door but the door. There is even a mysterious message from the captain of another ship saying "Please. Don't open the door."
 
-But what door? The titular scourge between stars can only refer to the alien creatures from Proxima b and the only door they can open are physical ones. And if 'the door' is just some physical door, then Watson wrecking the Comms station makes absolutely no freaking sense because how the hell would that stop a physical creature from opening a physical door? Even then, why would it be 'the door' instead of 'a door'?
+But what door? The titular scourge between stars can only refer to the alien creatures from Proxima b and the only door they can open are physical ones. And if the door is just some physical door, then Watson wrecking the Comms station makes absolutely no freaking sense because how the hell would that stop a physical creature from opening a physical door? Even then, why would it be the door instead of a door?
