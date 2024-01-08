@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reading The Scourge Between Stars"
+title: "Reading The Scourge Between Stars by Ness Brown"
 date: 2023-09-06 01:00
 author: Zed Dee
 comments: true

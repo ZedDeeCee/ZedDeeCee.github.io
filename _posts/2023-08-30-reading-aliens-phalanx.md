@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reading Aliens: Phalanx"
+title: "Reading Aliens: Phalanx by Scott Sigler"
 date: 2023-08-30 01:00
 author: Zed Dee
 comments: true
