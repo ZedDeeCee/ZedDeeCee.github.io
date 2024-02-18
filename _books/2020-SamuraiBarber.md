@@ -19,7 +19,7 @@ Set in a far-flung biotechnological future, SAMURAI BARBER VERSUS NINJA HAIRSTYL
 
 <div style="clear: left"></div>
 
-Download free: [Mobi](/content/books/SamuraiBarberVersusNinjaHairstylist-ZedDee.mobi){:target="_blank"}, [Epub](/content/books/SamuraiBarberVersusNinjaHairstylist-ZedDee.epub){:target="_blank"} or [PDF](/content/books/SamuraiBarberVersusNinjaHairstylist-ZedDee.pdf){:target="_blank"}
+Download free: [Mobi + Epub + PDF](/content/books/SamuraiBarberVersusNinjaHairstylist-ZedDee.zip){:target="_blank"}
 
 Where to buy: [Kindle](https://www.amazon.com/Samurai-Barber-Versus-Ninja-Hairstylist-ebook/dp/B0C12N7ZNT/){:target="_blank"}, [Paperback](https://www.amazon.com/Samurai-Barber-Versus-Ninja-Hairstylist/dp/9811866406){:target="_blank"}
 
