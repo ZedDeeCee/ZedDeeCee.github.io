@@ -21,7 +21,7 @@ Release Date: 28th Nov 2020, 31st Mar 2023
 <div style="clear: left"></div>
 
 Get it from:
-- [Kobo](https://www.kobo.com/sg/en/ebook/samurai-barber-versus-ninja-hairstylist-2){:target="_blank"}
+- [Kobo](https://www.kobo.com/en/ebook/samurai-barber-versus-ninja-hairstylist-2){:target="_blank"}
 - [Direct download zip with Mobi + Epub + PDF](/content/books/SamuraiBarberVersusNinjaHairstylist-ZedDee.zip){:target="_blank"}
 - [Paperback](https://www.amazon.com/Samurai-Barber-Versus-Ninja-Hairstylist/dp/9811866406){:target="_blank"}
 
