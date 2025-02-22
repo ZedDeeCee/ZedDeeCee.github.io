@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Zed Dee's Words In Some Kind Of Order
 description: I'm just some guy who somehow managed to write some books that some people thought were somewhat good.
-author: Zed Dee
+author: 
+  twitter: ZedDeeCee
 twitter_username: ZedDeeCee
 goodreads_username: 14997957.Zed_Dee
 #bookBubUrl: https://www.bookbub.com/authors/zed-dee-26237249-8e3c-4681-807a-02d14b4b38a6?follow=true
@@ -31,6 +32,9 @@ header_pages:
   - books.md
   - posts.md
   - about.md
+twitter:
+  username: ZedDeeCee
+  card: summary_large_image
   
 # Build settings
 markdown: kramdown
