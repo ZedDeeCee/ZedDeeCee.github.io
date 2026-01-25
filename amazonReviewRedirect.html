@@ -1,0 +1,44 @@
+---
+layout: null
+permalink: /amazon-review-redirect/
+---
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Redirecting to Amazon Review Page...</title>
+    <script>
+        // 1. Get ASIN from URL (e.g., yoursite.com/review/?asin=B0C12N7ZNT)
+        const urlParams = new URLSearchParams(window.location.search);
+        const asin = urlParams.get('asin');
+
+        if (!asin) {
+            // If no ASIN is provided, send them to your main book list
+            window.location.href = "/books/"; 
+        } else {
+            // 2. Fetch Country and Redirect
+            fetch('https://api.country.is/')
+                .then(response => response.json())
+                .then(data => {
+                    const country = data.country;
+                    const storeMap = {
+                        "GB": "co.uk", "CA": "ca", "AU": "com.au", "DE": "de",
+                        "FR": "fr", "ES": "es", "IT": "it", "JP": "co.jp", "IN": "in"
+                    };
+                    const tld = storeMap[country] || "com";
+                    window.location.href = `https://www.amazon.${tld}/review/create-review?asin=${asin}`;
+                })
+                .catch(() => {
+                    // Fallback to .com if API is down
+                    window.location.href = `https://www.amazon.com/review/create-review?asin=${asin}`;
+                });
+        }
+    </script>
+</head>
+<body>
+    <p>Redirecting to Amazon Review Page... <br> If nothing happens, <a id="fallback" href="#">click here</a>.</p>
+    <script>
+        // Update fallback link just in case
+        if (asin) document.getElementById('fallback').href = `https://www.amazon.com/review/create-review?asin=${asin}`;
+    </script>
+</body>
+</html>
