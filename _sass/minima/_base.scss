@@ -285,3 +285,23 @@ table {
     color:#660;
   }
 }
+
+.button {
+	background-color: green;
+	color: white;
+	padding: 16px;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius: 15%;
+	border: none;
+}
+
+.button:hover { 
+	box-shadow:0 8px 16px 0 rgba(0,0,0,0.6);
+}
+
+.button:active {
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}
