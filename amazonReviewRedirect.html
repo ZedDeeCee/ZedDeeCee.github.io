@@ -21,8 +21,18 @@ permalink: /amazon-review-redirect/
                 .then(data => {
                     const country = data.country;
                     const storeMap = {
-                        "GB": "co.uk", "CA": "ca", "AU": "com.au", "DE": "de",
-                        "FR": "fr", "ES": "es", "IT": "it", "JP": "co.jp", "IN": "in"
+                        "GB": "co.uk", 
+                        "CA": "ca", 
+                        "AU": "com.au", 
+                        "DE": "de",
+                        "FR": "fr", 
+                        "ES": "es",
+                        "IT": "it", 
+                        "JP": "co.jp", 
+                        "IN": "in",
+                        "BR": "com.br",
+                        "NL": "nl",
+                        "MX": "com.mx"
                     };
                     const tld = storeMap[country] || "com";
                     window.location.href = `https://www.amazon.${tld}/review/create-review?asin=${asin}`;
