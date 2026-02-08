@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Zed Dee's Words In Some Kind Of Order
+title: Zed Dee's Super Secret Stash
 description: I'm just some guy who somehow managed to write some books that some people thought were somewhat good.
 author: 
   twitter: ZedDeeCee
@@ -35,7 +35,7 @@ header_pages:
 twitter:
   username: ZedDeeCee
   card: summary_large_image
-  
+instagram_username: zeddeecee
 # Build settings
 markdown: kramdown
 theme: minima
