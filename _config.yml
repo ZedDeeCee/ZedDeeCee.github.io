@@ -35,7 +35,6 @@ header_pages:
 twitter:
   username: ZedDeeCee
   card: summary_large_image
-instagram_username: zeddeecee
 # Build settings
 markdown: kramdown
 theme: minima
