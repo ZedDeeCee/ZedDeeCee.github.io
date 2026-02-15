@@ -1,9 +1,67 @@
 ---
 layout: default
 ---
-<h2 style="clear:both">{{ page.title }}</h2>
-<img src="{{ page.image }}" width="100%" height="auto" style="float: left; padding-right: 10px; padding-bottom: 20px">
-{{ page.content | markdownify }}
+
+<style>
+/* when embedded, hide nav immediately and reveal body only after class is set */
+body.in-iframe .site-header { display: none; }
+body.in-iframe .page-content { padding-top: 10; }
+  
+/* hide body until JS signals it's ready — only applies inside iframes */
+body.iframe-loading { visibility: hidden; }
+body.in-iframe { visibility: visible; }
+
+.button {
+	background-color: green;
+	color: white;
+	padding: 16px;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius: 15%;
+	border: none;
+}
+
+.button:hover { 
+	box-shadow:0 8px 16px 0 rgba(0,0,0,0.6);
+}
+
+.button:active {
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}
+</style>
+
+<!-- at the very top of <body>, before anything renders -->
+<script>
+  if (window.self !== window.top) {
+    document.body.classList.add('in-iframe');
+  }
+</script>
+
+<img src="{{ page.ImageLink }}" width="40%" height="auto" style="float: left; padding-right: 10px; padding-bottom: 20px">
+{{ page.description | markdownify }}
+
+<p>Genre: {{ page.genre }}</p>
+
+<p>Release Date: {{ page.releaseDate }}</p>
+
+{%- if page.buyLink or page.downloadLink -%}
+<div>
+  {%- if page.buyLink -%}
+    <button class="button" onClick="window.open('{{ page.buyLink }}');">BUY NOW</button>
+  {%- endif -%}
+  {%- if page.buyLink and page.downloadLink -%}
+    <span> or </span>
+  {%- endif -%}
+  {%- if page.downloadLink -%}
+    <a class="button" role="button" href="{{ page.downloadLink }}">DOWNLOAD FREE</a>
+  {%- endif -%}
+</div>
+{%- endif -%}
+
+<div style="clear: left"></div>
+<p>
 
 {%- if page.goodreadsLink -%}
 <div class="goodreads-widget" style="width:100%;height:300px">
