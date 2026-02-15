@@ -12,7 +12,28 @@ layout: default
 {% assign book = site.books | reverse | first %}
 <h2 style="clear:both">{{ book.title }}</h2>
 <img src="{{ book.ImageLink }}" width="30%" height="auto" style="float: left; padding-right: 10px; padding-bottom: 20px">
-{{ book.content | markdownify }}
+{{ book.description | markdownify }}
+
+<p>Genre: {{ book.genre }}</p>
+
+<p>Release Date: {{ book.releaseDate }}</p>
+
+{%- if book.buyLink or book.downloadLink -%}
+<div>
+  {%- if book.buyLink -%}
+    <button class="button" onClick="window.open('{{ book.buyLink }}');">BUY NOW</button>
+  {%- endif -%}
+  {%- if book.buyLink and book.downloadLink -%}
+    <span> or </span>
+  {%- endif -%}
+  {%- if book.downloadLink -%}
+    <a class="button" role="button" href="{{ book.downloadLink }}">DOWNLOAD FREE</a>
+  {%- endif -%}
+</div>
+{%- endif -%}
+
+<div style="clear: left"></div>
+<p>
 
 <div class="goodreads-widget" style="width:100%;height:300px">
   <a class="gr_header" rel="nofollow" target="_blank"  href="{{ book.goodreadsLink }}">Goodreads reviews for {{book.title}}</a>

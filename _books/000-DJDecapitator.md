@@ -12,5 +12,4 @@ description: |
  There might be one way to save Kai. The infected still respond to their favourite songs. Sam just needs to find a subwoofer before the station tears itself apart, before the creatures hunting him finish the job, and before whatever cosmic nightmare birthed this plague completes its terrible purpose.
  
  A darkly funny, brutally gory story about undying devotion set among the stars, *DJ Decapitator* is *Dead Space* meets *Shaun of the Dead*—for readers who like their horror with a killer soundtrack.
-
 ---

@@ -1,7 +1,6 @@
 ---
 layout: book
 title: Samurai Barber Versus Ninja Hairstylist
-image: https://zeddeecee.github.io/content/images/SamuraiBarberVersusNinjaHairstylistTwitterCardLargeImage.jpg
 ImageLink: /content/images/SamuraiBarberVersusNinjaHairstylistCover.jpg
 genre: Sci-fi
 releaseDate: "28 Nov 2020, 31 Mar 2023"
