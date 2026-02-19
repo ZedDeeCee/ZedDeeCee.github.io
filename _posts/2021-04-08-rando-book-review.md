@@ -5,12 +5,12 @@ date: 2021-04-08 01:00
 author: Zed Dee
 comments: true
 summary: "★★★★✰. Great book for its price, which is free."
-image: http://weavespinner.net/data/fel/Subjugation1.jpg
+image: https://sennadar.com/images/101.png
 ---
 
-![Subjugation](http://weavespinner.net/data/fel/Subjugation1.jpg)
+![Subjugation](https://sennadar.com/images/101.png)
 
-I got this book for free from [http://weavespinner.net/worlds_of_fel.htm](http://weavespinner.net/worlds_of_fel.htm){:target="_blank"} because I wanted to put it on my Kindle. But it was originally published on a forum.
+I got this book for free from [https://sennadar.com/Subjugation-Books.html](https://sennadar.com/Subjugation-Books.html){:target="_blank"} because I wanted to put it on my Kindle. But it was originally published on a forum.
 
 Probably because it was published for free, I found a lot of typos. There was even a section where a character's name got switched around. I don't know if all these issues got fixed in the forum version. However, I found them to be but mild distractions in the version I downloaded, because this book is FREE and what is here is very good.
 
