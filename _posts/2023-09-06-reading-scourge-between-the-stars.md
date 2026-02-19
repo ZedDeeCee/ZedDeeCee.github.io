@@ -67,13 +67,13 @@ Unfortunately for me, the whole book is written like this; at a great distance f
 
 > The sight of Otto’s space-pale hand against its artificial skin, the same color as Jacklyn’s, rankled. That he had given it his own name rankled worse.
 
-What's wrong with Watson having dark skin like Jacklyn's (I'm assuming that's her on the cover)? Otto is a scientist type who created Watson and his full name is apparently Otto Watson. It's a bit weird to name a droid he created with his own last name, sure, but why does it "rankle" Jackyln? At this point I would call Jacklyn a misanthrope, except that Watson is not human so that doesn't really fit. Is there a word for someone who hates everything? Even worse, she hates everything for no discernible reason at all.
+What's wrong with Watson having dark skin like Jacklyn's (I'm assuming that's her on the cover)? Otto is a scientist type who created Watson and his full name is apparently Otto Watson. It's a bit weird to name a droid he created with his own last name, sure, but why does it "rankle" Jacklyn? At this point I would call Jacklyn a misanthrope, except that Watson is not human so that doesn't really fit. Is there a word for someone who hates everything? Even worse, she hates everything for no discernible reason at all.
 
 In the next paragraph, Otto touches Watson in this manner:
 
 > He tapped Watson’s temple with a bony knuckle, right beside the crack that split its faceplate from brow to chin.
 
-Which makes Jackyln react so:
+Which makes Jacklyn react so:
 
 > Jacklyn was almost too irked by the touch to parse the implications.
 
@@ -89,11 +89,11 @@ I don't understand Jacklyn. If someone had built "the most advanced post-zettasc
 
 Why would she hate Otto calling Watson 'her'? Later on, she enjoys making Otto scowl. Why? Without any insight into Jacklyn's thought process, I can only conclude that she is equivalent to an internet troll who enjoys getting a rise out of other people.
 
-The book doesn't get any better for me from this point on. It's like it was written like a movie; Jackyln *does* this and Jacklyn *does* that. But books aren't movies and the author ignores the biggest strength of books, which is the ability to lay bare the inner workings of a character. I gave the book ★✰✰✰✰ on Goodreads because this book was written in this distant way that made it impossible for me to get into the character's head and see this literary world through their eyes.
+The book doesn't get any better for me from this point on. It's like it was written like a movie; Jacklyn *does* this and Jacklyn *does* that. But books aren't movies and the author ignores the biggest strength of books, which is the ability to lay bare the inner workings of a character. I gave the book ★✰✰✰✰ on Goodreads because this book was written in this distant way that made it impossible for me to get into the character's head and see this literary world through their eyes.
 
-There are 101 ★★★★★ reviews, 227 ★★★★✰, 152 ★★★✰✰, 52 ★★✰✰✰ and 7 ★✰✰✰✰ as of when this was written. This means that ★✰✰✰✰ make up 1.3% of all reviews, ★★✰✰✰ 9.6%, ★★★✰✰ 28.2%, ★★★★✰ 42.1% and ★★★★★ 18.7%. This is similar but not the same as the distribution of ratings.
+There are 101 ★★★★★ reviews, 227 ★★★★✰, 152 ★★★✰✰, 52 ★★✰✰✰ and 7 ★✰✰✰✰ as of when this was written. This means that ★✰✰✰✰ make up 1.3% of all reviews, ★★✰✰✰ 9.6%, ★★★✰✰ 28.2%, ★★★★✰ 42.1% and ★★★★★ 18.7%.
 
-Meanwhile, the ★★★★✰ and ★★★★★ reviews are gushing about how they love the Jacklyn character. What is going on? What is there to love? Are they projecting their own character motivations and thoughts onto a series of actions that Jackyln did? How are they doing this? Is this what is meant by "reading between the lines"?
+Meanwhile, the ★★★★✰ and ★★★★★ reviews are gushing about how they love the Jacklyn character. What is going on? What is there to love? Are they projecting their own character motivations and thoughts onto a series of actions that Jacklyn did? How are they doing this? Is this what is meant by "reading between the lines"?
 
 All I can say is that if your reading style is similar to mine, you probably won't enjoy this.
 
@@ -111,7 +111,7 @@ Whose face is it? We only learn this in Chapter 8 out of 9, nearly the end of th
 
 > Jacklyn sobbed. This was a face that she did know. It wasn’t the exact plate that Kimberly had started wearing after the engagement that ruined her real face, but it was the same model—the same shape, the same color. And it had the same effect on Jacklyn.
 
-I think the author thought that this revelation might explain Jacklyn's behaviour earlier in the book where she got rankled and stuff, but Watson isn't using Kimberly's face, only a similar face plate (which I imagine is something like a helmet?), which makes her behaviour even more unreasonable. Was her whole beef with Otto down to him using the same model and color faceplate that her sister had used? He probably didn't even know! What a petty woman! And why was this revealed only at the end of the book? A reasonable person would have had noticed the similarity and had an emotional reaction right at the start of the book. In this case, it is more than a hundred pages between Jackyln being spooked by Watson and having the appropriate emotional reaction. Talk about 'distant' writing!
+I think the author thought that this revelation might explain Jacklyn's behaviour earlier in the book where she got rankled and stuff, but Watson isn't using Kimberly's face, only a similar face plate (which I imagine is something like a helmet?), which makes her behaviour even more unreasonable. Was her whole beef with Otto down to him using the same model and color faceplate that her sister had used? He probably didn't even know! What a petty woman! And why was this revealed only at the end of the book? A reasonable person would have had noticed the similarity and had an emotional reaction right at the start of the book. In this case, it is more than a hundred pages between Jacklyn being spooked by Watson and having the appropriate emotional reaction. Talk about 'distant' writing!
 
 Let's move on to another incident where I was taken completely out of the story.
 
@@ -131,9 +131,7 @@ There are more singular theys scattered throughout and I don't remember much abo
 
 > NESS BROWN is a speculative fiction author by day and astrophysicist by night. They are a proud New Mexican living in New York City (and missing green chile) with their husband and two cats, Faust and Mephi. They are currently studying graduate astrophysics after several years of teaching astronomy and encouraging students to wonder about worlds beyond our own. The Scourge Between Stars is their debut.
 
-This usage of "they" irks me to no end, because if you want to use the singular "they", you've got to follow the rest of English grammar and use "they is", not "they are". Is their husband (and two cats?) also studying graduate astrophysics? Probably not the cats since cats can't teach astronomy. Sure, it's quite unlikely that the husband is also studying graduate astrophysics after several years teaching astronomy, but it's not impossible.
-
-"They is a proud New Mexican" and "They is currently studying graduate astrophyics" would have prevented any possible confusion.
+This usage of "they" irks me to no end, because if you want to use the singular "they", you've got to make sure who "they" is referring to. In this case, "they are" is following a reference to Ness Brown's husband and two cats. For a moment, I thought that the husband was also studying graduate astrophyics after several years of teaching astronomy.
 
 The author also stated that they finished the story in a little under a month. It shows. This reads like an early draft where some ideas were put in but not fully fleshed out. There is a whole thread about not opening the door, which is even the tagline of the book, but in the end it is not clear what door they is talking about.
 
