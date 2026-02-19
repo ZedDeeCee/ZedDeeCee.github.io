@@ -7,7 +7,7 @@ comments: true
 image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680830201i/60784885.jpg
 ---
 
-"The Scourge Between Stars", what a great title! Instantly gave me instant cosmic horror vibes. 
+"The Scourge Between Stars", what a great title! Instantly gave me cosmic horror vibes. 
 
 Here's how it starts:
 
@@ -23,7 +23,7 @@ Now, Voyager was only 6 billion kilometres from Earth, or 333 light minutes away
 
 [![The Pale Blue Dot](/content/images/PaleBlueDotRevisited_1600.jpg)](https://solarsystem.nasa.gov/resources/536/voyager-1s-pale-blue-dot/){:target="_blank"}
 
-Unfortunately, Voyager did not take a picture of the Sun. Anyway, Proxima b is probably referring to Proxima Centauri b, which is about 4.2 light years away, and it sounds like the ship is somewhere between there and Earth, as the ship left Proxima b a century ago. The closest image I could find of what that would look like is this image of what the Sun would look like from Alpha Centauri, a triple star system which Proxima Centauri b is a part of, and which is 4.3 light years away:
+Unfortunately, Voyager did not take a picture of the Sun. Anyway, Proxima b is probably referring to Proxima Centauri b, which is about 4.2 light years away, and it sounds like the ship is somewhere between there and Earth, as the ship left Proxima b a century ago. The closest image I could find is this depiction of what the Sun would look like from Alpha Centauri, a triple star system which Proxima Centauri b is a part of, and which is 4.3 light years away:
 
 [![How the Sun would look like from Alpha Centauri](/content/images/SunInCassiopeiaFromAlphaCentauri.jpg)](https://www.duluthnewstribune.com/astro-bob-what-would-the-sun-look-like-from-alpha-centauri){:target="_blank"}
 
@@ -131,7 +131,7 @@ There are more singular theys scattered throughout and I don't remember much abo
 
 > NESS BROWN is a speculative fiction author by day and astrophysicist by night. They are a proud New Mexican living in New York City (and missing green chile) with their husband and two cats, Faust and Mephi. They are currently studying graduate astrophysics after several years of teaching astronomy and encouraging students to wonder about worlds beyond our own. The Scourge Between Stars is their debut.
 
-This usage of "they" irks me to no end, because if you want to use the singular "they", you've got to make sure who "they" is referring to. In this case, "they are" is following a reference to Ness Brown's husband and two cats. For a moment, I thought that the husband was also studying graduate astrophyics after several years of teaching astronomy.
+This usage of "they" irks me to no end, because if you want to use the singular "they", you've got to make sure who "they" is referring to. In this case, "they are" is following a reference to Ness Brown's husband and two cats. For a moment, I thought that the husband was also studying graduate astrophysics after several years of teaching astronomy.
 
 The author also stated that they finished the story in a little under a month. It shows. This reads like an early draft where some ideas were put in but not fully fleshed out. There is a whole thread about not opening the door, which is even the tagline of the book, but in the end it is not clear what door they is talking about.
 
