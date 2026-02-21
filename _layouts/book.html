@@ -46,16 +46,16 @@ body.in-iframe { visibility: visible; }
 
 <p>Release Date: {{ page.releaseDate }}</p>
 
-{%- if page.buyLink or page.downloadLink -%}
+{%- if page.buyLink or page.readLink -%}
 <div>
   {%- if page.buyLink -%}
     <button class="button" onClick="window.open('{{ page.buyLink }}');">BUY NOW</button>
   {%- endif -%}
-  {%- if page.buyLink and page.downloadLink -%}
+  {%- if page.buyLink and page.readLink -%}
     <span> or </span>
   {%- endif -%}
-  {%- if page.downloadLink -%}
-    <a class="button" role="button" href="{{ page.downloadLink }}">DOWNLOAD FREE</a>
+  {%- if page.readLink -%}
+    <a class="button" role="button" onClick="window.open('{{ page.readLink }}')">READ FREE</a>
   {%- endif -%}
 </div>
 {%- endif -%}

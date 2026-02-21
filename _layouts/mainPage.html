@@ -5,6 +5,33 @@ layout: default
 #Books {
   width: 100%;
 }
+/* when embedded, hide nav immediately and reveal body only after class is set */
+body.in-iframe .site-header { display: none; }
+body.in-iframe .page-content { padding-top: 10; }
+  
+/* hide body until JS signals it's ready — only applies inside iframes */
+body.iframe-loading { visibility: hidden; }
+body.in-iframe { visibility: visible; }
+
+.button {
+	background-color: green;
+	color: white;
+	padding: 16px;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius: 15%;
+	border: none;
+}
+
+.button:hover { 
+	box-shadow:0 8px 16px 0 rgba(0,0,0,0.6);
+}
+
+.button:active {
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}
 </style>
 <h1>Latest Book</h1>
 <hr style="clear:both;rounded;margin-top:1em;margin-bottom:1em">
@@ -18,16 +45,16 @@ layout: default
 
 <p>Release Date: {{ book.releaseDate }}</p>
 
-{%- if book.buyLink or book.downloadLink -%}
+{%- if book.buyLink or book.readLink -%}
 <div>
   {%- if book.buyLink -%}
     <button class="button" onClick="window.open('{{ book.buyLink }}');">BUY NOW</button>
   {%- endif -%}
-  {%- if book.buyLink and book.downloadLink -%}
+  {%- if book.buyLink and book.readLink -%}
     <span> or </span>
   {%- endif -%}
-  {%- if book.downloadLink -%}
-    <a class="button" role="button" href="{{ book.downloadLink }}">DOWNLOAD FREE</a>
+  {%- if book.readLink -%}
+    <a class="button" role="button" onClick="window.open('{{ book.readLink }}')">READ FREE</a>
   {%- endif -%}
 </div>
 {%- endif -%}
