@@ -43,7 +43,7 @@ Result? 100% confident it's AI.
 
 ## [Pantheon of the Damned: A Dark Fantasy Novel](https://www.amazon.com/dp/B0GCDHBL1V){:target="_blank"}
 
-Author photo looks AI generated. Also, author apparently also has B.A. in the Arts.
+Author photo looks AI generated. Also, author apparently also has a B.A. in the Arts.
 
 ## [The Cajun Curse](https://www.amazon.com/dp/B0G8484K3F){:target="_blank"}
 
@@ -110,3 +110,5 @@ Author has published 36 books since Nov 18 2025. That's 9 books a month! But tak
 ---
 
 Out of 12 books, only 1 was written by a human. If this isn't fucked up, I don't know what is.
+
+Even if I ask Claude to update the extension to filter out authors that have more than x books per month, out of 80 books, it's still something like 1 out of 4 books written by an actual human.
