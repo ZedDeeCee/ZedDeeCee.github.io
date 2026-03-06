@@ -25,7 +25,6 @@ disqus:
     shortname: zeddee-github-io
 google_analytics: G-B2PT7WW1VH
 repository: zeddeecee/zeddeecee.github.io
-rss: '"Blog"'
 bookNewsRss: Book News
 email: "zeddee AT outlook.sg"
 header_pages:
