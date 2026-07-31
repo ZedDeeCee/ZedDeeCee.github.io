@@ -8,6 +8,7 @@ goodreadsLink: https://www.goodreads.com/book/show/55723124-samurai-barber-versu
 goodreadsReviewLink: https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&format=html&header_text=Goodreads+reviews+for+Samurai+Barber+Versus+Ninja+Hairstylist&isbn=B08L97RZ91&links=660&min_rating=3&num_reviews=&review_back=ffffff&stars=000000&stylesheet=&text=444
 buyLink: https://books2read.com/u/3nNeGB
 readLink: https://zeddeecee.substack.com/i/188225959/table-of-contents
+isFree: true
 description: |
  *Change is in the hair*.
  

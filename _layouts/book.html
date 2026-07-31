@@ -55,7 +55,11 @@ body.in-iframe { visibility: visible; }
     <span> or </span>
   {%- endif -%}
   {%- if page.readLink -%}
-    <a class="button" role="button" onClick="window.open('{{ page.readLink }}')">READ FREE</a>
+	{%- if page.isFree -%}
+		<a class="button" role="button" onClick="window.open('{{ page.readLink }}')">READ FREE</a>
+	{%- else -%}
+		<a class="button" role="button" onClick="window.open('{{ page.readLink }}')">READ SAMPLE</a>
+	{%- endif -%}
   {%- endif -%}
 </div>
 {%- endif -%}
