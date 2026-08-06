@@ -1,7 +1,7 @@
 ---
 layout: book
 title: DJ Decapitator
-ImageLink: /content/images/DJDecapitatorCover.jpeg
+ImageLink: /content/images/DJDecapitatorCover.jpg
 genre: Sci-fi Horror
 releaseDate: "31st October 2026"
 goodreadsLink: https://www.goodreads.com/book/show/247068924-dj-decapitator
@@ -18,4 +18,11 @@ description: |
  A darkly funny, brutally gory story about undying devotion set among the stars, *DJ Decapitator* is *Dead Space* meets *Shaun of the Dead*—for readers who like their horror with a killer soundtrack.
 
  "A vividly realized, gory, and gripping SF action adventure." —[*Kirkus Reviews*](https://www.kirkusreviews.com/book-reviews/zed-dee2/dj-decapitator/){:target="_blank"}
+ 
+ "Bloody-yet-emotionally charged SF zombie-stomp…" —[*Booklife*](https://booklife.com/project/dj-decapitator-107485){:target="_blank"}
+ 
+ Formats:
+ - ePub (ISBN: 9789819454051)
+ - mobi (ISBN: 9789819454068)
+ - Paperback (ISBN: 9789819452842, 5.5" x 8.5", 176 pages)
 ---
