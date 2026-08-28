@@ -1,0 +1,338 @@
+---
+layout: null
+permalink: /rainbow-highlighter/
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Grim Dawn Rainbow Filter Item Highlighter</title>
+<style>
+.container {
+  display: flex;
+}
+.container-items { 
+    padding: 5px;
+}
+</style>
+</head>
+<body>
+    <p>Version 0.1.0</p>
+    <div class="container">
+        <input type="file" id="fileInput" accept="txt"/>
+        <a id="message">Select a file</a>
+    </div>
+        <div class="container">
+        <div id="controlsContainer" class="container-items">
+            <input class="container-items" type="button" id="saveFilterButton" value="Save Filter" onclick="saveFilter()"/>
+            <input class="container-items" type="button" id="clearFilterButton" value="Clear Filter" onclick="clearFilter()"/>
+            <div id="presetsDropdown" class="container-items">
+                <a>Presets: </a>
+                <select name="presetSelection" id="presetSelection"></select>
+                <button class="container-items" onclick="loadPreset()">Load Preset</button>
+                <button class="container-items" onclick="deletePreset()">Delete Preset</button>
+            </div>
+            <br>
+            <div id="savePresetInput" class="container-items">
+                <input class="container-items" type="text" id="savePresetName" name="savePresetName"/>
+                <button class="container-items" onclick="savePreset()">Save Preset</button>
+            </div>
+        </div>
+    </div>
+    <div id="affixContainer" class="container">
+        <div id="prefixContainer"></div>
+        <div id="suffixContainer"></div>
+    </div>
+    
+    <script>
+        const prefixHighlighter = ">";
+        const suffixHighlighter = "<";
+        const presetsKey = "presets";
+        const defaultOption = "Select a Preset";
+        const messageDisplay = document.getElementById("message");
+        const controlsContainer = document.getElementById("controlsContainer");
+        controlsContainer.style.display = "none";
+        let rainbowFilter = [];
+        let prefixes = {};
+        let suffixes = {};
+        let filterFileName = "";
+        let presets = null;
+        let selectedPreset = "";
+        document.getElementById("presetSelection").onchange = function() { selectedPreset = this.value; };
+        loadPresetFromStorage();
+        const inputElement = document.getElementById("fileInput");
+        inputElement.addEventListener("change", handleFiles);
+        function loadPresetFromStorage() {
+            const presetsString = localStorage.getItem(presetsKey);
+            if (presetsString) { 
+                presets = JSON.parse(presetsString); 
+                populatePresets(presets);
+            }
+            
+        }
+        function populatePresets(presets)
+        {
+            const dropdownOptions = document.getElementById("presetSelection");
+            removeAllChildNodes(dropdownOptions);
+            const defaultOpt = document.createElement('option');
+            defaultOpt.value = defaultOption;
+            defaultOpt.innerHTML = defaultOption;
+            dropdownOptions.appendChild(defaultOpt);
+            if (presets) {
+                Object.keys(presets).sort().forEach((item, index)=>{ 
+                    var opt = document.createElement('option');
+                    opt.value = item;
+                    opt.innerHTML = item;
+                    dropdownOptions.appendChild(opt);
+                });
+            }
+        }
+        function loadPreset() {
+            if (selectedPreset != defaultOption && presets && presets[selectedPreset]) {
+                const tagSet = new Set(presets[selectedPreset]);
+                Object.keys(prefixes).sort().forEach((item, index)=> {
+                    checkPresetTags(prefixes[item], tagSet);
+                });
+                Object.keys(suffixes).sort().forEach((item, index)=> { 
+                    checkPresetTags(suffixes[item], tagSet);
+                });
+                showMessage("Preset " + selectedPreset + " loaded.", "");
+            }
+        }
+        function deletePreset() { 
+            if (selectedPreset != defaultOption && presets[selectedPreset]) {
+                const presetName = selectedPreset;
+                delete presets[presetName];
+                localStorage.setItem(presetsKey, JSON.stringify(presets));
+                loadPresetFromStorage();
+                showMessage("Preset " + presetName + " deleted", "");
+            }
+        }
+        function checkPresetTags(affixInfo, set) { 
+            var found = false;
+            for (var i = 0; i < affixInfo.length; i++) {
+                if (set.has(affixInfo[i].tag)) {
+                    console.log("Tag Found " + affixInfo[i].tag);
+                    document.getElementById(affixInfo.checkBoxId).checked = true;
+                    found = true;
+                    break;
+                }
+            }
+            if (!found) {
+                document.getElementById(affixInfo.checkBoxId).checked = false; 
+            }
+        }
+        function resetState() {
+            controlsContainer.style.display = "none";
+            rainbowFilter = [];
+            prefixes = {};
+            suffixes = {};
+            filterFileName = "";
+        }
+        function handleFiles() {
+            resetState();
+            const file = this.files[0];
+            if (!file) {
+                showMessage("No file selected. Please choose a file.", "error");
+                return;
+            }
+            if (!file.name.endsWith(".txt")) {
+                showMessage("Unsupported file type. Please select a text file.", "error");
+                return;
+            }
+            processFile(file);
+        }
+        function showMessage(message, type) {
+            messageDisplay.textContent = message;
+            messageDisplay.style.color = type === "error" ? "red" : "green";
+        }
+        function processFile(file)
+        {
+            rainbowFilter = new Array<String>(0);
+            removeAllChildNodes(document.getElementById("prefixContainer"));
+            removeAllChildNodes(document.getElementById("suffixContainer"));
+            const reader = new FileReader();
+            reader.onload = () => {
+                rainbowFilter = reader.result.split("\r\n");
+                for (var i = 0; i < rainbowFilter.length; i++) {
+                    const isPrefix = rainbowFilter[i].startsWith("tagPrefix") 
+                        || rainbowFilter[i].startsWith("tagGDX2Prefix") 
+                        || rainbowFilter[i].startsWith("tagGDX1Prefix")
+                        || rainbowFilter[i].startsWith("tagGDX3Prefix");
+                    const isSuffix = rainbowFilter[i].startsWith("tagSuffix")
+                            || rainbowFilter[i].startsWith("tagGDX3Suffix")
+                            || rainbowFilter[i].startsWith("tagGDX1Suffix");
+                    if (isPrefix || isSuffix)
+                    {
+                        if (isPrefix)
+                        {
+                            processAffixInfo(prefixes, rainbowFilter[i], i, true);
+                        }
+                        else 
+                        {
+                            processAffixInfo(suffixes, rainbowFilter[i], i, false);
+                        }
+                    }
+                }
+                if (Object.entries(prefixes).length === 0) {
+                    showMessage("Couldn't find prefix tags", "error");
+                    resetState();
+                    return;
+                } else if (Object.entries(suffixes).length === 0) {
+                    showMessage("Couldn't find suffix tags", "error");
+                    resetState();
+                    return;
+                }
+                controlsContainer.style.display = "flex";
+                filterFileName = file.name;
+                createCheckbox(prefixes, "prefixContainer");
+                createCheckbox(suffixes, "suffixContainer");
+            };
+            reader.onerror = () => {
+                showMessage("Error reading the file. Please try again.", "error");
+            };
+            reader.readAsText(file);
+            showMessage("Success reading file.", "");
+        }
+        function processAffixInfo(affixObject, unprocessedString, line, isPrefix)
+        {
+            const equalIndex = unprocessedString.indexOf("=");
+            const nameStartIndex = equalIndex + 5; // don't want the color tag
+            var startIndexToUse = nameStartIndex;
+            var endIndexToUse = unprocessedString.length;
+            const tag = unprocessedString.slice(0, equalIndex); // for filtering based of damage type or whatever
+            const alreadyHighlighted = isPrefix ? unprocessedString[nameStartIndex] === prefixHighlighter : 
+                unprocessedString[unprocessedString.length - 1] === suffixHighlighter;
+            if (isPrefix && alreadyHighlighted) { startIndexToUse = nameStartIndex + 1; }
+            if (!isPrefix && alreadyHighlighted) { endIndexToUse = endIndexToUse - 1; }
+            const name = unprocessedString.slice(startIndexToUse, endIndexToUse);
+            if (!affixObject.hasOwnProperty(name))
+            {
+                affixObject[name] = [];
+            }
+            affixObject[name].push({"line": line, "startIndex": nameStartIndex, "tag": tag});
+            affixObject[name].alreadyHighlighted = alreadyHighlighted;
+        }
+        function removeAllChildNodes(parent) {
+            while (parent.firstChild) {
+                parent.removeChild(parent.firstChild);
+            }
+        }
+        function createCheckbox(affixObject, id)
+        {
+            const container = document.getElementById(id);
+            Object.keys(affixObject).sort().forEach((item, index)=>{
+                const checkbox = document.createElement("input");
+                const idToUse = id.concat(index);
+                checkbox.type = "checkbox";
+                checkbox.id = idToUse;
+                checkbox.name = item;
+                checkbox.value = item;
+                checkbox.checked = affixObject[item].alreadyHighlighted;
+                const label = document.createElement("label");
+                label.htmlFor = idToUse;
+                label.appendChild(document.createTextNode(item));
+                container.appendChild(checkbox);
+                container.appendChild(label);
+                const br = document.createElement('br');
+                container.appendChild(br);
+                affixObject[item].checkBoxId = idToUse;
+            });
+        }
+        function saveFilter()
+        {
+            modifyRainbowFilter(prefixes, true);
+            modifyRainbowFilter(suffixes, false);
+            createFilterToDownload();
+            showMessage("Filter saved.", "");
+        }
+        function createFilterToDownload() {
+            var filterText = "";
+            for (var i = 0; i < rainbowFilter.length; i++) {
+                filterText = filterText + rainbowFilter[i] + "\r\n";
+            }
+            download(filterFileName, filterText);
+        }
+        function download(filename, text) {
+            var element = document.createElement('a');
+            element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+            element.setAttribute('download', filename);
+            element.style.display = 'none';
+            document.body.appendChild(element);
+            element.click();
+            document.body.removeChild(element);
+        }
+        function modifyRainbowFilter(affixObject, isPrefix)
+        {
+            Object.keys(affixObject).sort().forEach((item, index)=>{ 
+                const checked = document.getElementById(affixObject[item].checkBoxId).checked;
+                for (var i = 0; i < affixObject[item].length; i++) {
+                    const value = affixObject[item][i];
+                    const lineNumber = value.line;
+                    if (isPrefix) {
+                        const nameStartIndex = value.startIndex;
+                        const alreadyHighlighted = rainbowFilter[lineNumber][nameStartIndex] === prefixHighlighter;
+                        if (checked) {
+                            if (!alreadyHighlighted) {
+                                rainbowFilter[lineNumber] = rainbowFilter[lineNumber].slice(0, nameStartIndex) + 
+                                    prefixHighlighter + 
+                                    rainbowFilter[lineNumber].slice(nameStartIndex, rainbowFilter[lineNumber].length);
+                            }
+                        } else {
+                            if (alreadyHighlighted) {
+                                rainbowFilter[lineNumber] = rainbowFilter[lineNumber].slice(0, nameStartIndex) +  
+                                    rainbowFilter[lineNumber].slice(nameStartIndex + 1, rainbowFilter[lineNumber].length);
+                            }
+                        }
+                    }
+                    else {
+                        const lastIndex = rainbowFilter[lineNumber].length - 1;
+                        const alreadyHighlighted = rainbowFilter[lineNumber][lastIndex] === suffixHighlighter;
+                        if (checked) {
+                            if (!alreadyHighlighted) {
+                                rainbowFilter[lineNumber] = rainbowFilter[lineNumber] + suffixHighlighter;
+                            }
+                        } else {
+                            if (alreadyHighlighted) {
+                                rainbowFilter[lineNumber] = rainbowFilter[lineNumber].slice(0, lastIndex);
+                            }
+                        }
+                    }
+                };
+            });
+        }
+        function clearFilter() {
+             Object.keys(prefixes).sort().forEach((item, index)=> { 
+                document.getElementById(prefixes[item].checkBoxId).checked = false;
+             });
+             Object.keys(suffixes).sort().forEach((item, index)=> { 
+                document.getElementById(suffixes[item].checkBoxId).checked = false;
+             });
+        }
+        function savePreset() {
+            var tagArray = [];
+            addCheckedToTagSet(tagArray, prefixes);
+            addCheckedToTagSet(tagArray, suffixes);
+            var presetName = document.getElementById("savePresetName").value;
+            if (!presetName) { 
+                const now = new Date();
+                presetName = now.toISOString();
+            }
+            if (!presets) { presets = {}; }
+            presets[presetName] = tagArray;
+            localStorage.setItem(presetsKey, JSON.stringify(presets));
+            loadPresetFromStorage();
+            showMessage("Preset " + presetName + " saved.", "");
+        }
+        function addCheckedToTagSet(tagArray, affixObject) {
+            Object.keys(affixObject).sort().forEach((item, index)=>{ 
+                if (document.getElementById(affixObject[item].checkBoxId).checked) { 
+                    for (var i = 0; i < affixObject[item].length; i++) { 
+                        tagArray.push(affixObject[item][i].tag);
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>
