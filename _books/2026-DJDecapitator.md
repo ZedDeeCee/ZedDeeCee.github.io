@@ -23,6 +23,5 @@ description: |
  
  Formats:
  - ePub (ISBN: 9789819454051)
- - mobi (ISBN: 9789819454068)
  - Paperback (ISBN: 9789819452842, 5.5" x 8.5", 176 pages)
 ---
