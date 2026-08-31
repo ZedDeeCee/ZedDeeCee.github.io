@@ -11,6 +11,6 @@ It has been years, but today I'm proud to present, the cover for my new book *DJ
 
 Preorder it [here](https://books2read.com/u/mvAwO6){:target="_blank"}
 
-[![Front Cover](/content/images/DJDecapitatorCover.jpeg)](/content/images/DJDecapitatorCover.jpeg){:target="_blank"}
+[![Front Cover](/content/images/DJDecapitatorCover.jpg)](/content/images/DJDecapitatorCover.jpeg){:target="_blank"}
 
 [![Full Cover](/content/images/DJDecapitatorFullCover.jpg)](/content/images/DJDecapitatorFullCover.jpg){:target="_blank"}
