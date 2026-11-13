@@ -1,0 +1,77 @@
+---
+layout: default
+---
+
+<style>
+/* when embedded, hide nav immediately and reveal body only after class is set */
+body.in-iframe .site-header { display: none; }
+body.in-iframe .page-content { padding-top: 10; }
+  
+/* hide body until JS signals it's ready — only applies inside iframes */
+body.iframe-loading { visibility: hidden; }
+body.in-iframe { visibility: visible; }
+
+.button {
+	background-color: green;
+	color: white;
+	padding: 16px;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius: 15%;
+	border: none;
+}
+
+.button:hover { 
+	box-shadow:0 8px 16px 0 rgba(0,0,0,0.6);
+}
+
+.button:active {
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}
+</style>
+
+<!-- at the very top of <body>, before anything renders -->
+<script>
+  if (window.self !== window.top) {
+    document.body.classList.add('in-iframe');
+  }
+</script>
+
+<img src="{{ page.ImageLink }}" width="40%" height="auto" style="float: left; padding-right: 10px; padding-bottom: 20px">
+{{ page.description | markdownify }}
+
+<p>Genre: {{ page.genre }}</p>
+
+<p>Release Date: {{ page.releaseDate }}</p>
+
+{%- if page.buyLink or page.readLink -%}
+<div>
+  {%- if page.buyLink -%}
+    <button class="button" onClick="window.open('{{ page.buyLink }}');">BUY NOW</button>
+  {%- endif -%}
+  {%- if page.buyLink and page.readLink -%}
+    <span> or </span>
+  {%- endif -%}
+  {%- if page.readLink -%}
+	{%- if page.isFree -%}
+		<a class="button" role="button" onClick="window.open('{{ page.readLink }}')">READ FREE</a>
+	{%- else -%}
+		<a class="button" role="button" onClick="window.open('{{ page.readLink }}')">READ SAMPLE</a>
+	{%- endif -%}
+  {%- endif -%}
+</div>
+{%- endif -%}
+
+<div style="clear: left"></div>
+<p>
+
+{%- if page.goodreadsLink -%}
+<div class="goodreads-widget" style="width:100%;height:300px">
+  <a class="gr_header" rel="nofollow" target="_blank"  href="{{ page.goodreadsLink }}">Goodreads reviews for {{page.title}}</a>
+  <iframe id="the_iframe" src="{{ page.goodreadsReviewLink }}" style="width:100%;height:300px" frameborder="0"></iframe>
+</div>
+{%- endif -%}
+
+<hr style="clear:both;width:50%;margin-left:25%;margin-right:25%;margin-top:1em;margin-bottom:1em">

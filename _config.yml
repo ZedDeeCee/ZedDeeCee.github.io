@@ -1,0 +1,67 @@
+## Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Zed Dee's Super Secret Stash
+description: I'm just some guy who somehow managed to write some books that some people thought were somewhat good.
+author: 
+  twitter: ZedDeeCee
+twitter_username: ZedDeeCee
+goodreads_username: 14997957.Zed_Dee
+substack_username: zeddeecee
+#bookBubUrl: https://www.bookbub.com/authors/zed-dee-26237249-8e3c-4681-807a-02d14b4b38a6?follow=true
+disqus:
+    shortname: zeddee-github-io
+google_analytics: G-B2PT7WW1VH
+repository: zeddeecee/zeddeecee.github.io
+bookNewsRss: Book News
+header_pages:
+  - index.md
+  - books.md
+  - posts.md
+  - about.md
+twitter:
+  username: ZedDeeCee
+  card: summary_large_image
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+exclude:
+    - LICENSE
+    - README.md
+
+collections:
+  books:
+    output: true
+
+feed:
+  categories:
+    - BookNews
