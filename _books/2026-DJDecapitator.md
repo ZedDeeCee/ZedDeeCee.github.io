@@ -24,4 +24,17 @@ description: |
  Formats:
  - ePub (ISBN: 9789819454051)
  - Paperback (ISBN: 9789819452842, 5.5" x 8.5", 176 pages)
+
+addendum: |
+ Additional Author's Notes:
+ - [Can Anyone Hear You Scream in Space?](https://zeddeecee.substack.com/p/can-no-one-really-hear-you-scream){:target="_blank"}
+ 
+ Related Articles:
+ - [On Saudade and writing inspiration for DJ Decapitator](https://zeddeecee.substack.com/p/five-different-flavours-of-saudade){:target="_blank"}
+ 
+ FAQ:
+ - What is *BOWZT*?  
+ *BOWZT* is when a bass kick has been distorted to high heaven:
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/7W6uATT4IT0?si=e8NyyCADqLjjoICu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
+

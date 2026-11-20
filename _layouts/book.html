@@ -64,6 +64,11 @@ body.in-iframe { visibility: visible; }
 </div>
 {%- endif -%}
 
+{%- if page.addendum -%}
+<br>
+{{ page.addendum | markdownify }}
+{%- endif -%}
+
 <div style="clear: left"></div>
 <p>
 
